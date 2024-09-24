@@ -15,6 +15,7 @@ import re
 from typing import Iterable, List
 from konlpy.tag import Hannanum
 
+
 def read_decks(file_names: Iterable[List[str]]) -> str:
     "Читает строки из файлов и объединяет в один текст."
     lines = []
@@ -27,9 +28,11 @@ def read_decks(file_names: Iterable[List[str]]) -> str:
 
 NON_HANGEUL_RE = re.compile('[^ ㄱ-힣]+')
 
+
 def strip_non_hangeul(text: str) -> str:
     "Возвращает текст, в котором все не-хангыльные символы заменены пробелами."
     return NON_HANGEUL_RE.sub(" ", text)
+
 
 def count_stems(text: str) -> Counter[str]:
     "Возвращает объект Counter с подсчётом того, сколько раз каждый корень встретился в тексте."
@@ -42,13 +45,15 @@ def count_stems(text: str) -> Counter[str]:
     #     print(t)
     #     print(sorted(set(word for word, tag in tagged if tag == t)))
     # print(sorted(set(tag for _, tag in tagged)))
-    
+
     # M - непонятно что
     # N - существительные
     # P - глаголы и прилагательные
     counter = Counter()
     for word, tag in tagged:
         if tag in "MNP":
+            if tag == "P":
+                word += "다"  # verb
             counter[word] += 1
     return counter
 

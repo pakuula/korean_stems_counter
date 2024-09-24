@@ -1,0 +1,4322 @@
+#separator:tab
+#html:true
+"말
+[anki:tts lang=ko_KR speed=0.6]말[/anki:tts]
+
+"	Речь; слово
+"Речь; слово</br>
+</hr>
+"	"말
+[anki:tts lang=ko_KR speed=0.8]말[/anki:tts]
+"
+"말하다
+[anki:tts lang=ko_KR speed=0.6]말하다[/anki:tts]
+
+"	Говорить; просить
+"Говорить; просить</br>
+</hr>
+"	"말하다
+[anki:tts lang=ko_KR speed=0.8]말하다[/anki:tts]
+"
+"누구
+[anki:tts lang=ko_KR speed=0.6]누구[/anki:tts]
+
+"	Кто (?)
+"Кто (?)</br>
+</hr>
+"	"누구
+[anki:tts lang=ko_KR speed=0.8]누구[/anki:tts]
+"
+"문
+[anki:tts lang=ko_KR speed=0.6]문[/anki:tts]
+
+"	Дверь; ворота
+"Дверь; ворота</br>
+</hr>
+"	"문
+[anki:tts lang=ko_KR speed=0.8]문[/anki:tts]
+"
+"산
+[anki:tts lang=ko_KR speed=0.6]산[/anki:tts]
+
+"	Гора
+"Гора</br>
+</hr>
+"	"산
+[anki:tts lang=ko_KR speed=0.8]산[/anki:tts]
+"
+"아니요!
+[anki:tts lang=ko_KR speed=0.6]아니요![/anki:tts]
+
+"	Нет
+"Нет</br>
+</hr>
+"	"아니요!
+[anki:tts lang=ko_KR speed=0.8]아니요![/anki:tts]
+"
+"손
+[anki:tts lang=ko_KR speed=0.6]손[/anki:tts]
+
+"	Рука
+"Рука</br>
+</hr>
+"	"손
+[anki:tts lang=ko_KR speed=0.8]손[/anki:tts]
+"
+"오늘
+[anki:tts lang=ko_KR speed=0.6]오늘[/anki:tts]
+
+"	Сегодня 
+"Сегодня </br>
+</hr>
+"	"오늘
+[anki:tts lang=ko_KR speed=0.8]오늘[/anki:tts]
+"
+"조금
+[anki:tts lang=ko_KR speed=0.6]조금[/anki:tts]
+
+"	Немного
+"Немного</br>
+</hr>
+"	"조금
+[anki:tts lang=ko_KR speed=0.8]조금[/anki:tts]
+"
+"한국
+[anki:tts lang=ko_KR speed=0.6]한국[/anki:tts]
+
+"	Корея
+"Корея</br>
+</hr>
+"	"한국
+[anki:tts lang=ko_KR speed=0.8]한국[/anki:tts]
+"
+"한국 사람
+[anki:tts lang=ko_KR speed=0.6]한국 사람[/anki:tts]
+
+"	Кореец/кореянка
+"Кореец/кореянка</br>
+</hr>
+"	"한국 사람
+[anki:tts lang=ko_KR speed=0.8]한국 사람[/anki:tts]
+"
+"하나
+[anki:tts lang=ko_KR speed=0.6]하나[/anki:tts]
+
+"	Один
+"Один</br>
+</hr>
+"	"하나
+[anki:tts lang=ko_KR speed=0.8]하나[/anki:tts]
+"
+"둘
+[anki:tts lang=ko_KR speed=0.6]둘[/anki:tts]
+
+"	Два
+"Два</br>
+</hr>
+"	"둘
+[anki:tts lang=ko_KR speed=0.8]둘[/anki:tts]
+"
+"셋
+[anki:tts lang=ko_KR speed=0.6]셋[/anki:tts]
+
+"	Три
+"Три</br>
+</hr>
+"	"셋
+[anki:tts lang=ko_KR speed=0.8]셋[/anki:tts]
+"
+"사진
+[anki:tts lang=ko_KR speed=0.6]사진[/anki:tts]
+
+"	Фотография
+"Фотография</br>
+</hr>
+"	"사진
+[anki:tts lang=ko_KR speed=0.8]사진[/anki:tts]
+"
+"무엇
+[anki:tts lang=ko_KR speed=0.6]무엇[/anki:tts]
+
+"	Что (?)
+"Что (?)</br>
+</hr>
+"	"무엇
+[anki:tts lang=ko_KR speed=0.8]무엇[/anki:tts]
+"
+"이것
+[anki:tts lang=ko_KR speed=0.6]이것[/anki:tts]
+
+"	Эта [вещь], этот [предмет]
+"Эта [вещь], этот [предмет]</br>
+</hr>
+"	"이것
+[anki:tts lang=ko_KR speed=0.8]이것[/anki:tts]
+"
+"러시아
+[anki:tts lang=ko_KR speed=0.6]러시아[/anki:tts]
+
+"	Россия 
+"Россия </br>
+</hr>
+"	"러시아
+[anki:tts lang=ko_KR speed=0.8]러시아[/anki:tts]
+"
+"러시아 사람
+[anki:tts lang=ko_KR speed=0.6]러시아 사람[/anki:tts]
+
+"	Россиянин, россиянка
+"Россиянин, россиянка</br>
+</hr>
+"	"러시아 사람
+[anki:tts lang=ko_KR speed=0.8]러시아 사람[/anki:tts]
+"
+"물
+[anki:tts lang=ko_KR speed=0.6]물[/anki:tts]
+
+"	Вода
+"Вода</br>
+</hr>
+"	"물
+[anki:tts lang=ko_KR speed=0.8]물[/anki:tts]
+"
+"-이다
+[anki:tts lang=ko_KR speed=0.6]-이다[/anki:tts]
+
+"	Быть, являться кем-то/чем-то
+"Быть, являться кем-то/чем-то</br>
+</hr>
+"	"-이다
+[anki:tts lang=ko_KR speed=0.8]-이다[/anki:tts]
+"
+"-ㅂ니다
+[anki:tts lang=ko_KR speed=0.6]-ㅂ니다[/anki:tts]
+
+"	[окончание сказуемого]<br>(настоящее время, формально-вежливый стиль)
+"[окончание сказуемого]<br>(настоящее время, формально-вежливый стиль)</br>
+</hr>
+"	"-ㅂ니다
+[anki:tts lang=ko_KR speed=0.8]-ㅂ니다[/anki:tts]
+"
+"산입니다
+[anki:tts lang=ko_KR speed=0.6]산입니다[/anki:tts]
+
+"	Это гора
+"Это гора</br>
+</hr>
+"	"산입니다
+[anki:tts lang=ko_KR speed=0.8]산입니다[/anki:tts]
+"
+"사람입니다
+[anki:tts lang=ko_KR speed=0.6]사람입니다[/anki:tts]
+
+"	Это человек.
+"Это человек.</br>
+</hr>
+"	"사람입니다
+[anki:tts lang=ko_KR speed=0.8]사람입니다[/anki:tts]
+"
+"-ㅂ니까
+[anki:tts lang=ko_KR speed=0.6]-ㅂ니까[/anki:tts]
+
+"	[вопросительное окончание]
+"[вопросительное окончание]</br>
+</hr>
+"	"-ㅂ니까
+[anki:tts lang=ko_KR speed=0.8]-ㅂ니까[/anki:tts]
+"
+"물입니까?
+[anki:tts lang=ko_KR speed=0.6]물입니까?[/anki:tts]
+
+"	Это вода?
+"Это вода?</br>
+</hr>
+"	"물입니까?
+[anki:tts lang=ko_KR speed=0.8]물입니까?[/anki:tts]
+"
+"이것이 무엇입니까?
+[anki:tts lang=ko_KR speed=0.6]이것이 무엇입니까?[/anki:tts]
+
+"	Что это?
+"Что это?</br>
+</hr>
+"	"이것이 무엇입니까?
+[anki:tts lang=ko_KR speed=0.8]이것이 무엇입니까?[/anki:tts]
+"
+"이것은 마우스입니다
+[anki:tts lang=ko_KR speed=0.6]이것은 마우스입니다[/anki:tts]
+
+"	Это мышь.
+"감사합니다
+[anki:tts lang=ko_KR speed=0.6]감사합니다[/anki:tts]
+
+"	Спасибо.
+"Спасибо.</br>
+</hr>
+"	"감사합니다
+[anki:tts lang=ko_KR speed=0.8]감사합니다[/anki:tts]
+"
+"사랑합니다
+[anki:tts lang=ko_KR speed=0.6]사랑합니다[/anki:tts]
+
+"	Я тебя люблю
+"Я тебя люблю</br>
+</hr>
+"	"사랑합니다
+[anki:tts lang=ko_KR speed=0.8]사랑합니다[/anki:tts]
+"
+"끝
+[anki:tts lang=ko_KR speed=0.6]끝[/anki:tts]
+
+"	Конец
+"Конец</br>
+</hr>
+"	"끝
+[anki:tts lang=ko_KR speed=0.8]끝[/anki:tts]
+"
+"Это мышь.</br>
+</hr>
+"	"이것은 마우스입니다
+[anki:tts lang=ko_KR speed=0.8]이것은 마우스입니다[/anki:tts]
+"
+"우유
+[anki:tts lang=ko_KR speed=0.6]우유[/anki:tts]
+
+"	Молоко
+"Молоко</br>
+</hr>
+"	"우유
+[anki:tts lang=ko_KR speed=0.8]우유[/anki:tts]
+"
+"다리
+[anki:tts lang=ko_KR speed=0.6]다리[/anki:tts]
+
+"	Нога
+"Нога</br>
+</hr>
+"	"다리
+[anki:tts lang=ko_KR speed=0.8]다리[/anki:tts]
+"
+"한글
+[anki:tts lang=ko_KR speed=0.6]한글[/anki:tts]
+
+"	Корейский алфавит
+"Корейский алфавит</br>
+</hr>
+"	"한글
+[anki:tts lang=ko_KR speed=0.8]한글[/anki:tts]
+"
+"학교
+[anki:tts lang=ko_KR speed=0.6]학교[/anki:tts]
+
+"	школа
+"школа</br>
+</hr>
+"	"학교
+[anki:tts lang=ko_KR speed=0.8]학교[/anki:tts]
+"
+"대학교
+[anki:tts lang=ko_KR speed=0.6]대학교[/anki:tts]
+
+"	Университет
+"Университет</br>
+</hr>
+"	"대학교
+[anki:tts lang=ko_KR speed=0.8]대학교[/anki:tts]
+"
+"빵
+[anki:tts lang=ko_KR speed=0.6]빵[/anki:tts]
+
+"	хлеб
+"хлеб</br>
+</hr>
+"	"빵
+[anki:tts lang=ko_KR speed=0.8]빵[/anki:tts]
+"
+"친구
+[anki:tts lang=ko_KR speed=0.6]친구[/anki:tts]
+
+"	друг
+"друг</br>
+</hr>
+"	"친구
+[anki:tts lang=ko_KR speed=0.8]친구[/anki:tts]
+"
+"김치
+[anki:tts lang=ko_KR speed=0.6]김치[/anki:tts]
+
+"	Кимчи
+"Кимчи</br>
+</hr>
+"	"김치
+[anki:tts lang=ko_KR speed=0.8]김치[/anki:tts]
+"
+"크다
+[anki:tts lang=ko_KR speed=0.6]크다[/anki:tts]
+
+"	большой
+"большой</br>
+</hr>
+"	"크다
+[anki:tts lang=ko_KR speed=0.8]크다[/anki:tts]
+"
+"과일
+[anki:tts lang=ko_KR speed=0.6]과일[/anki:tts]
+
+"	Фрукт, фрукты
+"Фрукт, фрукты</br>
+</hr>
+"	"과일
+[anki:tts lang=ko_KR speed=0.8]과일[/anki:tts]
+"
+"한국어
+[anki:tts lang=ko_KR speed=0.6]한국어[/anki:tts]
+
+"	Корейский язык
+"Корейский язык</br>
+</hr>
+"	"한국어
+[anki:tts lang=ko_KR speed=0.8]한국어[/anki:tts]
+"
+"러시아어
+[anki:tts lang=ko_KR speed=0.6]러시아어[/anki:tts]
+
+"	Русский язык
+"Русский язык</br>
+</hr>
+"	"러시아어
+[anki:tts lang=ko_KR speed=0.8]러시아어[/anki:tts]
+"
+"영어
+[anki:tts lang=ko_KR speed=0.6]영어[/anki:tts]
+
+"	Английский язык
+"Английский язык</br>
+</hr>
+"	"영어
+[anki:tts lang=ko_KR speed=0.8]영어[/anki:tts]
+"
+"배우다
+[anki:tts lang=ko_KR speed=0.6]배우다[/anki:tts]
+
+"	<div>выучить; овладеть; научиться</div>
+"<div>выучить; овладеть; научиться</div></br>
+</hr>
+"	"배우다
+[anki:tts lang=ko_KR speed=0.8]배우다[/anki:tts]
+"
+"한국어를 배웁니다
+[anki:tts lang=ko_KR speed=0.6]한국어를 배웁니다[/anki:tts]
+
+"	Я учу / он/она учит корейский язык
+"Я учу / он/она учит корейский язык</br>
+</hr>
+"	"한국어를 배웁니다
+[anki:tts lang=ko_KR speed=0.8]한국어를 배웁니다[/anki:tts]
+"
+"문학
+[anki:tts lang=ko_KR speed=0.6]문학[/anki:tts]
+
+"	Литература
+"Литература</br>
+</hr>
+"	"문학
+[anki:tts lang=ko_KR speed=0.8]문학[/anki:tts]
+"
+"문학을 배웁니다
+[anki:tts lang=ko_KR speed=0.6]문학을 배웁니다[/anki:tts]
+
+"	Изучаю литературу
+"Изучаю литературу</br>
+</hr>
+"	"문학을 배웁니다
+[anki:tts lang=ko_KR speed=0.8]문학을 배웁니다[/anki:tts]
+"
+"네
+[anki:tts lang=ko_KR speed=0.6]네[/anki:tts]
+
+"	Да!
+"Да!</br>
+</hr>
+"	"네
+[anki:tts lang=ko_KR speed=0.8]네[/anki:tts]
+"
+"제 ...
+[anki:tts lang=ko_KR speed=0.6]제 ...[/anki:tts]
+
+"	Мой / моя / моё ...
+"Мой / моя / моё ...</br>
+</hr>
+"	"제 ...
+[anki:tts lang=ko_KR speed=0.8]제 ...[/anki:tts]
+"
+"제 이름
+[anki:tts lang=ko_KR speed=0.6]제 이름[/anki:tts]
+
+"	Моё имя
+"Моё имя</br>
+</hr>
+"	"제 이름
+[anki:tts lang=ko_KR speed=0.8]제 이름[/anki:tts]
+"
+"제 친구
+[anki:tts lang=ko_KR speed=0.6]제 친구[/anki:tts]
+
+"	Мой друг
+"Мой друг</br>
+</hr>
+"	"제 친구
+[anki:tts lang=ko_KR speed=0.8]제 친구[/anki:tts]
+"
+"여기
+[anki:tts lang=ko_KR speed=0.6]여기[/anki:tts]
+
+"	Здесь
+"Здесь</br>
+</hr>
+"	"여기
+[anki:tts lang=ko_KR speed=0.8]여기[/anki:tts]
+"
+"안녕하세요&nbsp;
+[anki:tts lang=ko_KR speed=0.6]안녕하세요&nbsp;[/anki:tts]
+
+"	Здравствуйте
+"Здравствуйте</br>
+</hr>
+"	"안녕하세요&nbsp;
+[anki:tts lang=ko_KR speed=0.8]안녕하세요&nbsp;[/anki:tts]
+"
+"안녕&nbsp;
+[anki:tts lang=ko_KR speed=0.6]안녕&nbsp;[/anki:tts]
+
+"	Привет!&nbsp;
+"Привет!&nbsp;</br>
+</hr>
+"	"안녕&nbsp;
+[anki:tts lang=ko_KR speed=0.8]안녕&nbsp;[/anki:tts]
+"
+"안녕하십니까
+[anki:tts lang=ko_KR speed=0.6]안녕하십니까[/anki:tts]
+
+"	"Здравствуйте!<br>(<i>букв. ""Пребываете в мире?""</i>)"
+"Здравствуйте!<br>(<i>букв. ""Пребываете в мире?""</i>)</br>
+</hr>
+"	"안녕하십니까
+[anki:tts lang=ko_KR speed=0.8]안녕하십니까[/anki:tts]
+"
+"이름이 무엇입니까 ?
+[anki:tts lang=ko_KR speed=0.6]이름이 무엇입니까 ?[/anki:tts]
+
+"	Как вас зовут?
+"Как вас зовут?</br>
+</hr>
+"	"이름이 무엇입니까 ?
+[anki:tts lang=ko_KR speed=0.8]이름이 무엇입니까 ?[/anki:tts]
+"
+"제 이름은 니콜라이입니다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]제 이름은 니콜라이입니다&nbsp;[/anki:tts]
+
+"	Моё имя Николай
+"Моё имя Николай</br>
+</hr>
+"	"제 이름은 니콜라이입니다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]제 이름은 니콜라이입니다&nbsp;[/anki:tts]
+"
+"하다
+[anki:tts lang=ko_KR speed=0.6]하다[/anki:tts]
+
+"	делать (что-либо); выполнять (что-либо)
+"делать (что-либо); выполнять (что-либо)</br>
+</hr>
+"	"하다
+[anki:tts lang=ko_KR speed=0.8]하다[/anki:tts]
+"
+"한국어를 하다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]한국어를 하다&nbsp;[/anki:tts]
+
+"	говорить по-корейски
+"говорить по-корейски</br>
+</hr>
+"	"한국어를 하다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]한국어를 하다&nbsp;[/anki:tts]
+"
+"한국어를 합니까?
+[anki:tts lang=ko_KR speed=0.6]한국어를 합니까?[/anki:tts]
+
+"	Вы говорите по-корейски?
+"Вы говорите по-корейски?</br>
+</hr>
+"	"한국어를 합니까?
+[anki:tts lang=ko_KR speed=0.8]한국어를 합니까?[/anki:tts]
+"
+"네, 조금 합니다 .
+[anki:tts lang=ko_KR speed=0.6]네, 조금 합니다 .[/anki:tts]
+
+"	"Да, немного говорю<br>(<i>ответ на вопрос ""вы говорите по-корейски?""</i>)"
+"Да, немного говорю<br>(<i>ответ на вопрос ""вы говорите по-корейски?""</i>)</br>
+</hr>
+"	"네, 조금 합니다 .
+[anki:tts lang=ko_KR speed=0.8]네, 조금 합니다 .[/anki:tts]
+"
+"영어를 잘 합니까?
+[anki:tts lang=ko_KR speed=0.6]영어를 잘 합니까?[/anki:tts]
+
+"	Вы хорошо говорите по английски?&nbsp;
+"Вы хорошо говорите по английски?&nbsp;</br>
+</hr>
+"	"영어를 잘 합니까?
+[anki:tts lang=ko_KR speed=0.8]영어를 잘 합니까?[/anki:tts]
+"
+"네, 영어를 잘 합니다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]네, 영어를 잘 합니다&nbsp;[/anki:tts]
+
+"	Да, я хорошо говорю по английски&nbsp;
+"Да, я хорошо говорю по английски&nbsp;</br>
+</hr>
+"	"네, 영어를 잘 합니다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]네, 영어를 잘 합니다&nbsp;[/anki:tts]
+"
+"이 사람이 누구입니까?
+[anki:tts lang=ko_KR speed=0.6]이 사람이 누구입니까?[/anki:tts]
+
+"	Кто этот человек?
+"Кто этот человек?</br>
+</hr>
+"	"이 사람이 누구입니까?
+[anki:tts lang=ko_KR speed=0.8]이 사람이 누구입니까?[/anki:tts]
+"
+"이 사람은 제 친구입니다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]이 사람은 제 친구입니다&nbsp;[/anki:tts]
+
+"	Этот человек мой друг.
+"Этот человек мой друг.</br>
+</hr>
+"	"이 사람은 제 친구입니다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]이 사람은 제 친구입니다&nbsp;[/anki:tts]
+"
+"누구입니까&nbsp;?
+[anki:tts lang=ko_KR speed=0.6]누구입니까&nbsp;?[/anki:tts]
+
+"	Кто это?
+"Кто это?</br>
+</hr>
+"	"누구입니까&nbsp;?
+[anki:tts lang=ko_KR speed=0.8]누구입니까&nbsp;?[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">하나</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">하나</span></div></div>[/anki:tts]
+
+"	1
+"1</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">하나</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">하나</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">둘</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">둘</span></div></div>[/anki:tts]
+
+"	2
+"2</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">둘</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">둘</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">셋</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">셋</span></div></div>[/anki:tts]
+
+"	3
+"3</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">셋</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">셋</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">넷</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">넷</span></div></div>[/anki:tts]
+
+"	4
+"4</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">넷</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">넷</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">다섯</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">다섯</span></div></div>[/anki:tts]
+
+"	5
+"5</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">다섯</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">다섯</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">여섯</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">여섯</span></div></div>[/anki:tts]
+
+"	6
+"6</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">여섯</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">여섯</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">일곱</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">일곱</span></div></div>[/anki:tts]
+
+"	7
+"7</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">일곱</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">일곱</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">여덟</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">여덟</span></div></div>[/anki:tts]
+
+"	8
+"8</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">여덟</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">여덟</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">아홉</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">아홉</span></div></div>[/anki:tts]
+
+"	9
+"9</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">아홉</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">아홉</span></div></div>[/anki:tts]
+"
+"<div><div><span style=""color: #a31515;"">열</span></div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div><span style=""color: #a31515;"">열</span></div></div>[/anki:tts]
+
+"	10
+"10</br>
+</hr>
+"	"<div><div><span style=""color: #a31515;"">열</span></div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div><span style=""color: #a31515;"">열</span></div></div>[/anki:tts]
+"
+"<div><div>열하나</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열하나</div></div>[/anki:tts]
+
+"	11
+"11</br>
+</hr>
+"	"<div><div>열하나</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열하나</div></div>[/anki:tts]
+"
+"<div><div>열둘</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열둘</div></div>[/anki:tts]
+
+"	<div><div>12</div></div>
+"<div><div>12</div></div></br>
+</hr>
+"	"<div><div>열둘</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열둘</div></div>[/anki:tts]
+"
+"<div><div>열셋</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열셋</div></div>[/anki:tts]
+
+"	13
+"13</br>
+</hr>
+"	"<div><div>열셋</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열셋</div></div>[/anki:tts]
+"
+"<div><div>열넷</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열넷</div></div>[/anki:tts]
+
+"	14
+"14</br>
+</hr>
+"	"<div><div>열넷</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열넷</div></div>[/anki:tts]
+"
+"<div><div>열다섯</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열다섯</div></div>[/anki:tts]
+
+"	15
+"15</br>
+</hr>
+"	"<div><div>열다섯</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열다섯</div></div>[/anki:tts]
+"
+"<div><div>열여섯</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열여섯</div></div>[/anki:tts]
+
+"	16
+"16</br>
+</hr>
+"	"<div><div>열여섯</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열여섯</div></div>[/anki:tts]
+"
+"<div><div>열일곱</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열일곱</div></div>[/anki:tts]
+
+"	17
+"17</br>
+</hr>
+"	"<div><div>열일곱</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열일곱</div></div>[/anki:tts]
+"
+"<div><div>열여덟</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열여덟</div></div>[/anki:tts]
+
+"	18
+"18</br>
+</hr>
+"	"<div><div>열여덟</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열여덟</div></div>[/anki:tts]
+"
+"<div><div>열아홉</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>열아홉</div></div>[/anki:tts]
+
+"	19
+"19</br>
+</hr>
+"	"<div><div>열아홉</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>열아홉</div></div>[/anki:tts]
+"
+"<div><div>스물</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>스물</div></div>[/anki:tts]
+
+"	20
+"20</br>
+</hr>
+"	"<div><div>스물</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>스물</div></div>[/anki:tts]
+"
+"<div><div>서른</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>서른</div></div>[/anki:tts]
+
+"	30
+"30</br>
+</hr>
+"	"<div><div>서른</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>서른</div></div>[/anki:tts]
+"
+"<div><div>마흔</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>마흔</div></div>[/anki:tts]
+
+"	40
+"40</br>
+</hr>
+"	"<div><div>마흔</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>마흔</div></div>[/anki:tts]
+"
+"<div><div>쉰</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>쉰</div></div>[/anki:tts]
+
+"	50
+"50</br>
+</hr>
+"	"<div><div>쉰</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>쉰</div></div>[/anki:tts]
+"
+"<div><div>예순</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>예순</div></div>[/anki:tts]
+
+"	60
+"60</br>
+</hr>
+"	"<div><div>예순</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>예순</div></div>[/anki:tts]
+"
+"<div><div>일흔</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>일흔</div></div>[/anki:tts]
+
+"	70
+"70</br>
+</hr>
+"	"<div><div>일흔</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>일흔</div></div>[/anki:tts]
+"
+"<div><div>여든</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>여든</div></div>[/anki:tts]
+
+"	80
+"80</br>
+</hr>
+"	"<div><div>여든</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>여든</div></div>[/anki:tts]
+"
+"<div><div>아흔</div></div>
+[anki:tts lang=ko_KR speed=0.6]<div><div>아흔</div></div>[/anki:tts]
+
+"	90
+"90</br>
+</hr>
+"	"<div><div>아흔</div></div>
+[anki:tts lang=ko_KR speed=0.8]<div><div>아흔</div></div>[/anki:tts]
+"
+"원
+[anki:tts lang=ko_KR speed=0.6]원[/anki:tts]
+
+"	Вона <br>(название корейской валюты)
+"Вона <br>(название корейской валюты)</br>
+</hr>
+"	"원
+[anki:tts lang=ko_KR speed=0.8]원[/anki:tts]
+"
+"-의
+[anki:tts lang=ko_KR speed=0.6]-의[/anki:tts]
+
+"	Окончание притяжательного падежа <br><i>читается как</i> [ㅔ]
+"Окончание притяжательного падежа <br><i>читается как</i> [ㅔ]</br>
+</hr>
+"	"-의
+[anki:tts lang=ko_KR speed=0.8]-의[/anki:tts]
+"
+"돈
+[anki:tts lang=ko_KR speed=0.6]돈[/anki:tts]
+
+"	Деньги
+"Деньги</br>
+</hr>
+"	"돈
+[anki:tts lang=ko_KR speed=0.8]돈[/anki:tts]
+"
+"친구의 돈
+[anki:tts lang=ko_KR speed=0.6]친구의 돈[/anki:tts]
+
+"	Деньги друга
+"Деньги друга</br>
+</hr>
+"	"친구의 돈
+[anki:tts lang=ko_KR speed=0.8]친구의 돈[/anki:tts]
+"
+"형
+[anki:tts lang=ko_KR speed=0.6]형[/anki:tts]
+
+"	старший брат<br>(<i>для брата</i>)
+"старший брат<br>(<i>для брата</i>)</br>
+</hr>
+"	"형
+[anki:tts lang=ko_KR speed=0.8]형[/anki:tts]
+"
+"형의 사진
+[anki:tts lang=ko_KR speed=0.6]형의 사진[/anki:tts]
+
+"	Фотография (старшего) брата
+"Фотография (старшего) брата</br>
+</hr>
+"	"형의 사진
+[anki:tts lang=ko_KR speed=0.8]형의 사진[/anki:tts]
+"
+"휴대폰
+[anki:tts lang=ko_KR speed=0.6]휴대폰[/anki:tts]
+
+"	Мобильный телефон
+"Мобильный телефон</br>
+</hr>
+"	"휴대폰
+[anki:tts lang=ko_KR speed=0.8]휴대폰[/anki:tts]
+"
+"있다
+[anki:tts lang=ko_KR speed=0.6]있다[/anki:tts]
+
+"	находиться; оставаться; пребывать; иметь место; происходить<br>
+"находиться; оставаться; пребывать; иметь место; происходить<br></br>
+</hr>
+"	"있다
+[anki:tts lang=ko_KR speed=0.8]있다[/anki:tts]
+"
+"휴대폰이 있습니다.
+[anki:tts lang=ko_KR speed=0.6]휴대폰이 있습니다.[/anki:tts]
+
+"	<i>у меня</i> есть / имеется мобильный телефон
+"<i>у меня</i> есть / имеется мобильный телефон</br>
+</hr>
+"	"휴대폰이 있습니다.
+[anki:tts lang=ko_KR speed=0.8]휴대폰이 있습니다.[/anki:tts]
+"
+"사진이 있습니까?
+[anki:tts lang=ko_KR speed=0.6]사진이 있습니까?[/anki:tts]
+
+"	<i>у вас</i> есть фотография?
+"<i>у вас</i> есть фотография?</br>
+</hr>
+"	"사진이 있습니까?
+[anki:tts lang=ko_KR speed=0.8]사진이 있습니까?[/anki:tts]
+"
+"왜?
+[anki:tts lang=ko_KR speed=0.6]왜?[/anki:tts]
+
+"	Почему?
+"Почему?</br>
+</hr>
+"	"왜?
+[anki:tts lang=ko_KR speed=0.8]왜?[/anki:tts]
+"
+"어떻게
+[anki:tts lang=ko_KR speed=0.6]어떻게[/anki:tts]
+
+"	как?
+"как?</br>
+</hr>
+"	"어떻게
+[anki:tts lang=ko_KR speed=0.8]어떻게[/anki:tts]
+"
+"안녕히 계세요!
+[anki:tts lang=ko_KR speed=0.6]안녕히 계세요![/anki:tts]
+
+"	До свидания!<br>(букв. <i>Спокойно оставаться</i>)
+"До свидания!<br>(букв. <i>Спокойно оставаться</i>)</br>
+</hr>
+"	"안녕히 계세요!
+[anki:tts lang=ko_KR speed=0.8]안녕히 계세요![/anki:tts]
+"
+"없다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]없다&nbsp;[/anki:tts]
+
+"	не существует; не имеется; отсутствует в наличии
+"не существует; не имеется; отсутствует в наличии</br>
+</hr>
+"	"없다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]없다&nbsp;[/anki:tts]
+"
+"필요 없습니다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]필요 없습니다&nbsp;[/anki:tts]
+
+"	Не нужно<br>(<i>вежливый отказ</i>)<br>(букв. <i>Отсутствует надобность</i>)
+"Не нужно<br>(<i>вежливый отказ</i>)<br>(букв. <i>Отсутствует надобность</i>)</br>
+</hr>
+"	"필요 없습니다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]필요 없습니다&nbsp;[/anki:tts]
+"
+"자다
+[anki:tts lang=ko_KR speed=0.6]자다[/anki:tts]
+
+"	Спать
+"Спать</br>
+</hr>
+"	"자다
+[anki:tts lang=ko_KR speed=0.8]자다[/anki:tts]
+"
+"남자
+[anki:tts lang=ko_KR speed=0.6]남자[/anki:tts]
+
+"	Мужчина
+"Мужчина</br>
+</hr>
+"	"남자
+[anki:tts lang=ko_KR speed=0.8]남자[/anki:tts]
+"
+"여자
+[anki:tts lang=ko_KR speed=0.6]여자[/anki:tts]
+
+"	Женщина
+"Женщина</br>
+</hr>
+"	"여자
+[anki:tts lang=ko_KR speed=0.8]여자[/anki:tts]
+"
+"바지
+[anki:tts lang=ko_KR speed=0.6]바지[/anki:tts]
+
+"	Штаны
+"Штаны</br>
+</hr>
+"	"바지
+[anki:tts lang=ko_KR speed=0.8]바지[/anki:tts]
+"
+"어떻게
+[anki:tts lang=ko_KR speed=0.6]어떻게[/anki:tts]
+
+"	Как(?)<br><i>вопросительное местоимение</i>
+"Как(?)<br><i>вопросительное местоимение</i></br>
+</hr>
+"	"어떻게
+[anki:tts lang=ko_KR speed=0.8]어떻게[/anki:tts]
+"
+"까마귀
+[anki:tts lang=ko_KR speed=0.6]까마귀[/anki:tts]
+
+"	Ворон
+"Ворон</br>
+</hr>
+"	"까마귀
+[anki:tts lang=ko_KR speed=0.8]까마귀[/anki:tts]
+"
+"고양이
+[anki:tts lang=ko_KR speed=0.6]고양이[/anki:tts]
+
+"	Кот
+"Кот</br>
+</hr>
+"	"고양이
+[anki:tts lang=ko_KR speed=0.8]고양이[/anki:tts]
+"
+"아기는 작습니다
+[anki:tts lang=ko_KR speed=0.6]아기는 작습니다[/anki:tts]
+
+"	Ребёнок - маленький
+"Ребёнок - маленький</br>
+</hr>
+"	"아기는 작습니다
+[anki:tts lang=ko_KR speed=0.8]아기는 작습니다[/anki:tts]
+"
+"그는 나쁩니다
+[anki:tts lang=ko_KR speed=0.6]그는 나쁩니다[/anki:tts]
+
+"	Он плохой
+"Он плохой</br>
+</hr>
+"	"그는 나쁩니다
+[anki:tts lang=ko_KR speed=0.8]그는 나쁩니다[/anki:tts]
+"
+"좋다
+[anki:tts lang=ko_KR speed=0.6]좋다[/anki:tts]
+
+"	Хороший; приятный; нравящийся
+"Хороший; приятный; нравящийся</br>
+</hr>
+"	"좋다
+[anki:tts lang=ko_KR speed=0.8]좋다[/anki:tts]
+"
+"이 고양이는 큽니다
+[anki:tts lang=ko_KR speed=0.6]이 고양이는 큽니다[/anki:tts]
+
+"	Эта кошка большая
+"Эта кошка большая</br>
+</hr>
+"	"이 고양이는 큽니다
+[anki:tts lang=ko_KR speed=0.8]이 고양이는 큽니다[/anki:tts]
+"
+"개
+[anki:tts lang=ko_KR speed=0.6]개[/anki:tts]
+
+"	Собака
+"Собака</br>
+</hr>
+"	"개
+[anki:tts lang=ko_KR speed=0.8]개[/anki:tts]
+"
+"온
+[anki:tts lang=ko_KR speed=0.6]온[/anki:tts]
+
+"	100
+"100</br>
+</hr>
+"	"온
+[anki:tts lang=ko_KR speed=0.8]온[/anki:tts]
+"
+"개가 느립니다
+[anki:tts lang=ko_KR speed=0.6]개가 느립니다[/anki:tts]
+
+"	Собака медленная
+"Собака медленная</br>
+</hr>
+"	"개가 느립니다
+[anki:tts lang=ko_KR speed=0.8]개가 느립니다[/anki:tts]
+"
+"느리다
+[anki:tts lang=ko_KR speed=0.6]느리다[/anki:tts]
+
+"	Медленный
+"Медленный</br>
+</hr>
+"	"느리다
+[anki:tts lang=ko_KR speed=0.8]느리다[/anki:tts]
+"
+"저는 빠릅니다
+[anki:tts lang=ko_KR speed=0.6]저는 빠릅니다[/anki:tts]
+
+"	Я быстрый
+"Я быстрый</br>
+</hr>
+"	"저는 빠릅니다
+[anki:tts lang=ko_KR speed=0.8]저는 빠릅니다[/anki:tts]
+"
+"운동
+[anki:tts lang=ko_KR speed=0.6]운동[/anki:tts]
+
+"	Физическое упражнение, тренировка
+"Физическое упражнение, тренировка</br>
+</hr>
+"	"운동
+[anki:tts lang=ko_KR speed=0.8]운동[/anki:tts]
+"
+"운동하다
+[anki:tts lang=ko_KR speed=0.6]운동하다[/anki:tts]
+
+"	Тренироваться, выполнять упражнения
+"Тренироваться, выполнять упражнения</br>
+</hr>
+"	"운동하다
+[anki:tts lang=ko_KR speed=0.8]운동하다[/anki:tts]
+"
+"이야기
+[anki:tts lang=ko_KR speed=0.6]이야기[/anki:tts]
+
+"	Разговор; рассказ; история; сказка
+"Разговор; рассказ; история; сказка</br>
+</hr>
+"	"이야기
+[anki:tts lang=ko_KR speed=0.8]이야기[/anki:tts]
+"
+"이야기하다
+[anki:tts lang=ko_KR speed=0.6]이야기하다[/anki:tts]
+
+"	Разговаривать, рассказывать, говорить
+"Разговаривать, рассказывать, говорить</br>
+</hr>
+"	"이야기하다
+[anki:tts lang=ko_KR speed=0.8]이야기하다[/anki:tts]
+"
+"사랑
+[anki:tts lang=ko_KR speed=0.6]사랑[/anki:tts]
+
+"	Любовь
+"Любовь</br>
+</hr>
+"	"사랑
+[anki:tts lang=ko_KR speed=0.8]사랑[/anki:tts]
+"
+"사랑하다
+[anki:tts lang=ko_KR speed=0.6]사랑하다[/anki:tts]
+
+"	Любить; быть влюблённым
+"Любить; быть влюблённым</br>
+</hr>
+"	"사랑하다
+[anki:tts lang=ko_KR speed=0.8]사랑하다[/anki:tts]
+"
+"선생님
+[anki:tts lang=ko_KR speed=0.6]선생님[/anki:tts]
+
+"	Учитель 
+"Учитель </br>
+</hr>
+"	"선생님
+[anki:tts lang=ko_KR speed=0.8]선생님[/anki:tts]
+"
+"손님
+[anki:tts lang=ko_KR speed=0.6]손님[/anki:tts]
+
+"	Гость
+"Гость</br>
+</hr>
+"	"손님
+[anki:tts lang=ko_KR speed=0.8]손님[/anki:tts]
+"
+"어서 오세요!
+[anki:tts lang=ko_KR speed=0.6]어서 오세요![/anki:tts]
+
+"	Добро пожаловать!<br>(устойчивая фраза)
+"Добро пожаловать!<br>(устойчивая фраза)</br>
+</hr>
+"	"어서 오세요!
+[anki:tts lang=ko_KR speed=0.8]어서 오세요![/anki:tts]
+"
+"반갑습니다!
+[anki:tts lang=ko_KR speed=0.6]반갑습니다![/anki:tts]
+
+"	Приятно познакомиться!
+"Приятно познакомиться!</br>
+</hr>
+"	"반갑습니다!
+[anki:tts lang=ko_KR speed=0.8]반갑습니다![/anki:tts]
+"
+"잘 지냅니까?
+[anki:tts lang=ko_KR speed=0.6]잘 지냅니까?[/anki:tts]
+
+"	Как дела? / Как поживаете?<br>букв. <i>Хорошо живёте?</i>
+"Как дела? / Как поживаете?<br>букв. <i>Хорошо живёте?</i></br>
+</hr>
+"	"잘 지냅니까?
+[anki:tts lang=ko_KR speed=0.8]잘 지냅니까?[/anki:tts]
+"
+"지내다
+[anki:tts lang=ko_KR speed=0.6]지내다[/anki:tts]
+
+"	проводить время; жить; служить
+"проводить время; жить; служить</br>
+</hr>
+"	"지내다
+[anki:tts lang=ko_KR speed=0.8]지내다[/anki:tts]
+"
+"반갑다
+[anki:tts lang=ko_KR speed=0.6]반갑다[/anki:tts]
+
+"	приятный, радостный, радушный
+"приятный, радостный, радушный</br>
+</hr>
+"	"반갑다
+[anki:tts lang=ko_KR speed=0.8]반갑다[/anki:tts]
+"
+"일
+[anki:tts lang=ko_KR speed=0.6]일[/anki:tts]
+
+"	Работа, дело, занятие 
+"Работа, дело, занятие </br>
+</hr>
+"	"일
+[anki:tts lang=ko_KR speed=0.8]일[/anki:tts]
+"
+"일하다
+[anki:tts lang=ko_KR speed=0.6]일하다[/anki:tts]
+
+"	Работать, трудиться 
+"Работать, трудиться </br>
+</hr>
+"	"일하다
+[anki:tts lang=ko_KR speed=0.8]일하다[/anki:tts]
+"
+"공부
+[anki:tts lang=ko_KR speed=0.6]공부[/anki:tts]
+
+"	Учеба, обучение, получение знаний
+"Учеба, обучение, получение знаний</br>
+</hr>
+"	"공부
+[anki:tts lang=ko_KR speed=0.8]공부[/anki:tts]
+"
+"공부하다
+[anki:tts lang=ko_KR speed=0.6]공부하다[/anki:tts]
+
+"	учиться; обучаться; изучать; заниматься учебой
+"учиться; обучаться; изучать; заниматься учебой</br>
+</hr>
+"	"공부하다
+[anki:tts lang=ko_KR speed=0.8]공부하다[/anki:tts]
+"
+"전화
+[anki:tts lang=ko_KR speed=0.6]전화[/anki:tts]
+
+"	Телефон; телефонный звонок, разговор по телефону 
+"Телефон; телефонный звонок, разговор по телефону </br>
+</hr>
+"	"전화
+[anki:tts lang=ko_KR speed=0.8]전화[/anki:tts]
+"
+"전화하다
+[anki:tts lang=ko_KR speed=0.6]전화하다[/anki:tts]
+
+"	Звонить; разговаривать по телефону 
+"Звонить; разговаривать по телефону </br>
+</hr>
+"	"전화하다
+[anki:tts lang=ko_KR speed=0.8]전화하다[/anki:tts]
+"
+"얘기
+[anki:tts lang=ko_KR speed=0.6]얘기[/anki:tts]
+
+"	рассказ; разговор; беседа
+"рассказ; разговор; беседа</br>
+</hr>
+"	"얘기
+[anki:tts lang=ko_KR speed=0.8]얘기[/anki:tts]
+"
+"얘기하다
+[anki:tts lang=ko_KR speed=0.6]얘기하다[/anki:tts]
+
+"	говорить; рассказывать
+"говорить; рассказывать</br>
+</hr>
+"	"얘기하다
+[anki:tts lang=ko_KR speed=0.8]얘기하다[/anki:tts]
+"
+"우리
+[anki:tts lang=ko_KR speed=0.6]우리[/anki:tts]
+
+"	Мы; наш
+"Мы; наш</br>
+</hr>
+"	"우리
+[anki:tts lang=ko_KR speed=0.8]우리[/anki:tts]
+"
+"우리는 얘기합니다
+[anki:tts lang=ko_KR speed=0.6]우리는 얘기합니다[/anki:tts]
+
+"	Мы разговариваем
+"Мы разговариваем</br>
+</hr>
+"	"우리는 얘기합니다
+[anki:tts lang=ko_KR speed=0.8]우리는 얘기합니다[/anki:tts]
+"
+"가족
+[anki:tts lang=ko_KR speed=0.6]가족[/anki:tts]
+
+"	Семья
+"Семья</br>
+</hr>
+"	"가족
+[anki:tts lang=ko_KR speed=0.8]가족[/anki:tts]
+"
+"언니
+[anki:tts lang=ko_KR speed=0.6]언니[/anki:tts]
+
+"	Старшая сестра<br>(<i>для сестры</i>)
+"Старшая сестра<br>(<i>для сестры</i>)</br>
+</hr>
+"	"언니
+[anki:tts lang=ko_KR speed=0.8]언니[/anki:tts]
+"
+"아름답다
+[anki:tts lang=ko_KR speed=0.6]아름답다[/anki:tts]
+
+"	красивый, прекрасный
+"красивый, прекрасный</br>
+</hr>
+"	"아름답다
+[anki:tts lang=ko_KR speed=0.8]아름답다[/anki:tts]
+"
+"아주
+[anki:tts lang=ko_KR speed=0.6]아주[/anki:tts]
+
+"	очень
+"очень</br>
+</hr>
+"	"아주
+[anki:tts lang=ko_KR speed=0.8]아주[/anki:tts]
+"
+"분
+[anki:tts lang=ko_KR speed=0.6]분[/anki:tts]
+
+"	человек, персона <br>(<i>вежливый эквивалент</i>)
+"человек, персона <br>(<i>вежливый эквивалент</i>)</br>
+</hr>
+"	"분
+[anki:tts lang=ko_KR speed=0.8]분[/anki:tts]
+"
+"어머니
+[anki:tts lang=ko_KR speed=0.6]어머니[/anki:tts]
+
+"	мать
+"мать</br>
+</hr>
+"	"어머니
+[anki:tts lang=ko_KR speed=0.8]어머니[/anki:tts]
+"
+"아버지
+[anki:tts lang=ko_KR speed=0.6]아버지[/anki:tts]
+
+"	отец
+"отец</br>
+</hr>
+"	"아버지
+[anki:tts lang=ko_KR speed=0.8]아버지[/anki:tts]
+"
+"부모님
+[anki:tts lang=ko_KR speed=0.6]부모님[/anki:tts]
+
+"	родители<br>(<i>уважительно</i>)
+"родители<br>(<i>уважительно</i>)</br>
+</hr>
+"	"부모님
+[anki:tts lang=ko_KR speed=0.8]부모님[/anki:tts]
+"
+"동생
+[anki:tts lang=ko_KR speed=0.6]동생[/anki:tts]
+
+"	младший брат или сестра
+"младший брат или сестра</br>
+</hr>
+"	"동생
+[anki:tts lang=ko_KR speed=0.8]동생[/anki:tts]
+"
+"귀엽다
+[anki:tts lang=ko_KR speed=0.6]귀엽다[/anki:tts]
+
+"	милый, симпатичный
+"милый, симпатичный</br>
+</hr>
+"	"귀엽다
+[anki:tts lang=ko_KR speed=0.8]귀엽다[/anki:tts]
+"
+"음식
+[anki:tts lang=ko_KR speed=0.6]음식[/anki:tts]
+
+"	еда, пища
+"еда, пища</br>
+</hr>
+"	"음식
+[anki:tts lang=ko_KR speed=0.8]음식[/anki:tts]
+"
+"저는 한국어가 좋습니다
+[anki:tts lang=ko_KR speed=0.6]저는 한국어가 좋습니다[/anki:tts]
+
+"	Мне нравится корейский язык
+"Мне нравится корейский язык</br>
+</hr>
+"	"저는 한국어가 좋습니다
+[anki:tts lang=ko_KR speed=0.8]저는 한국어가 좋습니다[/anki:tts]
+"
+"맛있다
+[anki:tts lang=ko_KR speed=0.6]맛있다[/anki:tts]
+
+"	Вкусный<br>(букв. <i>имеющий вкус</i>)
+"Вкусный<br>(букв. <i>имеющий вкус</i>)</br>
+</hr>
+"	"맛있다
+[anki:tts lang=ko_KR speed=0.8]맛있다[/anki:tts]
+"
+"-도
+[anki:tts lang=ko_KR speed=0.6]-도[/anki:tts]
+
+"	тоже<br>(частица подлежащего:&nbsp;<i>подлежащее&nbsp;<b>тоже</b>&nbsp;сказуемое</i>)
+"тоже<br>(частица подлежащего:&nbsp;<i>подлежащее&nbsp;<b>тоже</b>&nbsp;сказуемое</i>)</br>
+</hr>
+"	"-도
+[anki:tts lang=ko_KR speed=0.8]-도[/anki:tts]
+"
+"저도&nbsp;한국&nbsp;사람입니다.
+[anki:tts lang=ko_KR speed=0.6]저도&nbsp;한국&nbsp;사람입니다.[/anki:tts]
+
+"	Я тоже кореец<br>(букв. <i>Я тоже корейский человек</i>)
+"Я тоже кореец<br>(букв. <i>Я тоже корейский человек</i>)</br>
+</hr>
+"	"저도&nbsp;한국&nbsp;사람입니다.
+[anki:tts lang=ko_KR speed=0.8]저도&nbsp;한국&nbsp;사람입니다.[/anki:tts]
+"
+"재미있다
+[anki:tts lang=ko_KR speed=0.6]재미있다[/anki:tts]
+
+"	"<div style=""text-align: center;""><span style=""background-color: rgb(255, 255, 255);"">интересный; увлекательный; нескучный; ненудный; радостный</span></div><div style=""text-align: center;"">(букв.&nbsp;<i>имеющий интерес</i>)</div>"
+"<div style=""text-align: center;""><span style=""background-color: rgb(255, 255, 255);"">интересный; увлекательный; нескучный; ненудный; радостный</span></div><div style=""text-align: center;"">(букв.&nbsp;<i>имеющий интерес</i>)</div></br>
+</hr>
+"	"재미있다
+[anki:tts lang=ko_KR speed=0.8]재미있다[/anki:tts]
+"
+"영화
+[anki:tts lang=ko_KR speed=0.6]영화[/anki:tts]
+
+"	кино; фильм; кинофильм
+"кино; фильм; кинофильм</br>
+</hr>
+"	"영화
+[anki:tts lang=ko_KR speed=0.8]영화[/anki:tts]
+"
+"의사
+[anki:tts lang=ko_KR speed=0.6]의사[/anki:tts]
+
+"	Врач
+"Врач</br>
+</hr>
+"	"의사
+[anki:tts lang=ko_KR speed=0.8]의사[/anki:tts]
+"
+"출신
+[anki:tts lang=ko_KR speed=0.6]출신[/anki:tts]
+
+"	Происхождение
+"Происхождение</br>
+</hr>
+"	"출신
+[anki:tts lang=ko_KR speed=0.8]출신[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">저는 한국 출신입니다</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">저는 한국 출신입니다</span>[/anki:tts]
+
+"	Я уроженец Кореи
+"Я уроженец Кореи</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">저는 한국 출신입니다</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">저는 한국 출신입니다</span>[/anki:tts]
+"
+"한국인
+[anki:tts lang=ko_KR speed=0.6]한국인[/anki:tts]
+
+"	Кореец
+"Кореец</br>
+</hr>
+"	"한국인
+[anki:tts lang=ko_KR speed=0.8]한국인[/anki:tts]
+"
+"아니다
+[anki:tts lang=ko_KR speed=0.6]아니다[/anki:tts]
+
+"	не быть
+"не быть</br>
+</hr>
+"	"아니다
+[anki:tts lang=ko_KR speed=0.8]아니다[/anki:tts]
+"
+"저는 한국인이 아닙니다
+[anki:tts lang=ko_KR speed=0.6]저는 한국인이 아닙니다[/anki:tts]
+
+"	Я не кореец<br>(букв. <i>Я корейцем не быть</i>)
+"Я не кореец<br>(букв. <i>Я корейцем не быть</i>)</br>
+</hr>
+"	"저는 한국인이 아닙니다
+[anki:tts lang=ko_KR speed=0.8]저는 한국인이 아닙니다[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">화장실</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">화장실</span>[/anki:tts]
+
+"	Туалет
+"Туалет</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">화장실</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">화장실</span>[/anki:tts]
+"
+"시장
+[anki:tts lang=ko_KR speed=0.6]시장[/anki:tts]
+
+"	Рынок, базар
+"Рынок, базар</br>
+</hr>
+"	"시장
+[anki:tts lang=ko_KR speed=0.8]시장[/anki:tts]
+"
+"A지 않다
+[anki:tts lang=ko_KR speed=0.6]A지 않다[/anki:tts]
+
+"	не-A<i><br>глагольное отрицание</i>
+"не-A<i><br>глагольное отрицание</i></br>
+</hr>
+"	"A지 않다
+[anki:tts lang=ko_KR speed=0.8]A지 않다[/anki:tts]
+"
+"저는 자지 않습니다
+[anki:tts lang=ko_KR speed=0.6]저는 자지 않습니다[/anki:tts]
+
+"	Я не сплю
+"Я не сплю</br>
+</hr>
+"	"저는 자지 않습니다
+[anki:tts lang=ko_KR speed=0.8]저는 자지 않습니다[/anki:tts]
+"
+"가다
+[anki:tts lang=ko_KR speed=0.6]가다[/anki:tts]
+
+"	идти; уходить
+"идти; уходить</br>
+</hr>
+"	"가다
+[anki:tts lang=ko_KR speed=0.8]가다[/anki:tts]
+"
+"오다
+[anki:tts lang=ko_KR speed=0.6]오다[/anki:tts]
+
+"	приходить; приезжать
+"приходить; приезжать</br>
+</hr>
+"	"오다
+[anki:tts lang=ko_KR speed=0.8]오다[/anki:tts]
+"
+"에스컬레이터
+[anki:tts lang=ko_KR speed=0.6]에스컬레이터[/anki:tts]
+
+"	Эскалатор
+"Эскалатор</br>
+</hr>
+"	"에스컬레이터
+[anki:tts lang=ko_KR speed=0.8]에스컬레이터[/anki:tts]
+"
+"걷다
+[anki:tts lang=ko_KR speed=0.6]걷다[/anki:tts]
+
+"	идти пешком; шагать
+"идти пешком; шагать</br>
+</hr>
+"	"걷다
+[anki:tts lang=ko_KR speed=0.8]걷다[/anki:tts]
+"
+"-들
+[anki:tts lang=ko_KR speed=0.6]-들[/anki:tts]
+
+"	<i>множественное число</i>
+"<i>множественное число</i></br>
+</hr>
+"	"-들
+[anki:tts lang=ko_KR speed=0.8]-들[/anki:tts]
+"
+"-까지
+[anki:tts lang=ko_KR speed=0.6]-까지[/anki:tts]
+
+"	до (какого-либо времени или места)<br>
+"до (какого-либо времени или места)<br></br>
+</hr>
+"	"-까지
+[anki:tts lang=ko_KR speed=0.8]-까지[/anki:tts]
+"
+"저는 집까지 갑니다.
+[anki:tts lang=ko_KR speed=0.6]저는 집까지 갑니다.[/anki:tts]
+
+"	Я иду до дома.<br>(<i>с намёком, что у дома остановлюсь</i>)
+"Я иду до дома.<br>(<i>с намёком, что у дома остановлюсь</i>)</br>
+</hr>
+"	"저는 집까지 갑니다.
+[anki:tts lang=ko_KR speed=0.8]저는 집까지 갑니다.[/anki:tts]
+"
+"병원
+[anki:tts lang=ko_KR speed=0.6]병원[/anki:tts]
+
+"	больница
+"больница</br>
+</hr>
+"	"병원
+[anki:tts lang=ko_KR speed=0.8]병원[/anki:tts]
+"
+"같이
+[anki:tts lang=ko_KR speed=0.6]같이[/anki:tts]
+
+"	Вместе
+"Вместе</br>
+</hr>
+"	"같이
+[anki:tts lang=ko_KR speed=0.8]같이[/anki:tts]
+"
+"달리다
+[anki:tts lang=ko_KR speed=0.6]달리다[/anki:tts]
+
+"	бежать; мчаться
+"бежать; мчаться</br>
+</hr>
+"	"달리다
+[anki:tts lang=ko_KR speed=0.8]달리다[/anki:tts]
+"
+"우리들이 같이 달립니다.
+[anki:tts lang=ko_KR speed=0.6]우리들이 같이 달립니다.[/anki:tts]
+
+"	мы <i>(много)</i> вместе бежим
+"мы <i>(много)</i> вместе бежим</br>
+</hr>
+"	"우리들이 같이 달립니다.
+[anki:tts lang=ko_KR speed=0.8]우리들이 같이 달립니다.[/anki:tts]
+"
+"식당
+[anki:tts lang=ko_KR speed=0.6]식당[/anki:tts]
+
+"	ресторан; забегаловка; столовая (<i>комната для приема пищи</i>)
+"ресторан; забегаловка; столовая (<i>комната для приема пищи</i>)</br>
+</hr>
+"	"식당
+[anki:tts lang=ko_KR speed=0.8]식당[/anki:tts]
+"
+"-와/과
+[anki:tts lang=ko_KR speed=0.6]-와/과[/anki:tts]
+
+"	<i>союз&nbsp;</i>и
+"<i>союз&nbsp;</i>и</br>
+</hr>
+"	"-와/과
+[anki:tts lang=ko_KR speed=0.8]-와/과[/anki:tts]
+"
+"저는 친구와 파티에 갑니다.
+[anki:tts lang=ko_KR speed=0.6]저는 친구와 파티에 갑니다.[/anki:tts]
+
+"	Я с другом иду на вечеринку<br>(букв.&nbsp;<i>я и-друг на вечеринку иду</i>)
+"Я с другом иду на вечеринку<br>(букв.&nbsp;<i>я и-друг на вечеринку иду</i>)</br>
+</hr>
+"	"저는 친구와 파티에 갑니다.
+[anki:tts lang=ko_KR speed=0.8]저는 친구와 파티에 갑니다.[/anki:tts]
+"
+"멋
+[anki:tts lang=ko_KR speed=0.6]멋[/anki:tts]
+
+"	Вкус, стиль
+"Вкус, стиль</br>
+</hr>
+"	"멋
+[anki:tts lang=ko_KR speed=0.8]멋[/anki:tts]
+"
+"멋있다
+[anki:tts lang=ko_KR speed=0.6]멋있다[/anki:tts]
+
+"	Модный, стильный, крутой
+"Модный, стильный, крутой</br>
+</hr>
+"	"멋있다
+[anki:tts lang=ko_KR speed=0.8]멋있다[/anki:tts]
+"
+"이 영화는 멋있습니다
+[anki:tts lang=ko_KR speed=0.6]이 영화는 멋있습니다[/anki:tts]
+
+"	Этот фильм классный
+"Этот фильм классный</br>
+</hr>
+"	"이 영화는 멋있습니다
+[anki:tts lang=ko_KR speed=0.8]이 영화는 멋있습니다[/anki:tts]
+"
+"멋없다
+[anki:tts lang=ko_KR speed=0.6]멋없다[/anki:tts]
+
+"	непривлекательный; некрутой
+"непривлекательный; некрутой</br>
+</hr>
+"	"멋없다
+[anki:tts lang=ko_KR speed=0.8]멋없다[/anki:tts]
+"
+"학생이 멋없습니다
+[anki:tts lang=ko_KR speed=0.6]학생이 멋없습니다[/anki:tts]
+
+"	Студент не крутой
+"Студент не крутой</br>
+</hr>
+"	"학생이 멋없습니다
+[anki:tts lang=ko_KR speed=0.8]학생이 멋없습니다[/anki:tts]
+"
+"재미없다
+[anki:tts lang=ko_KR speed=0.6]재미없다[/anki:tts]
+
+"	Скучный; неинтересный
+"Скучный; неинтересный</br>
+</hr>
+"	"재미없다
+[anki:tts lang=ko_KR speed=0.8]재미없다[/anki:tts]
+"
+"그녀들
+[anki:tts lang=ko_KR speed=0.6]그녀들[/anki:tts]
+
+"	Они <br>(женщины)
+"Они <br>(женщины)</br>
+</hr>
+"	"그녀들
+[anki:tts lang=ko_KR speed=0.8]그녀들[/anki:tts]
+"
+"그들
+[anki:tts lang=ko_KR speed=0.6]그들[/anki:tts]
+
+"	Они<br>В том числе они мужчины
+"Они<br>В том числе они мужчины</br>
+</hr>
+"	"그들
+[anki:tts lang=ko_KR speed=0.8]그들[/anki:tts]
+"
+"책
+[anki:tts lang=ko_KR speed=0.6]책[/anki:tts]
+
+"	Книга
+"Книга</br>
+</hr>
+"	"책
+[anki:tts lang=ko_KR speed=0.8]책[/anki:tts]
+"
+"책이 재미없습니다
+[anki:tts lang=ko_KR speed=0.6]책이 재미없습니다[/anki:tts]
+
+"	Книга неинтересная
+"Книга неинтересная</br>
+</hr>
+"	"책이 재미없습니다
+[anki:tts lang=ko_KR speed=0.8]책이 재미없습니다[/anki:tts]
+"
+"가수
+[anki:tts lang=ko_KR speed=0.6]가수[/anki:tts]
+
+"	Певец
+"Певец</br>
+</hr>
+"	"가수
+[anki:tts lang=ko_KR speed=0.8]가수[/anki:tts]
+"
+"배우
+[anki:tts lang=ko_KR speed=0.6]배우[/anki:tts]
+
+"	Актёр
+"Актёр</br>
+</hr>
+"	"배우
+[anki:tts lang=ko_KR speed=0.8]배우[/anki:tts]
+"
+"경찰
+[anki:tts lang=ko_KR speed=0.6]경찰[/anki:tts]
+
+"	Полиция
+"Полиция</br>
+</hr>
+"	"경찰
+[anki:tts lang=ko_KR speed=0.8]경찰[/anki:tts]
+"
+"저는 경찰입니다
+[anki:tts lang=ko_KR speed=0.6]저는 경찰입니다[/anki:tts]
+
+"	Я полицейский
+"Я полицейский</br>
+</hr>
+"	"저는 경찰입니다
+[anki:tts lang=ko_KR speed=0.8]저는 경찰입니다[/anki:tts]
+"
+"열쇠
+[anki:tts lang=ko_KR speed=0.6]열쇠[/anki:tts]
+
+"	Ключ
+"Ключ</br>
+</hr>
+"	"열쇠
+[anki:tts lang=ko_KR speed=0.8]열쇠[/anki:tts]
+"
+"입구
+[anki:tts lang=ko_KR speed=0.6]입구[/anki:tts]
+
+"	Вход
+"Вход</br>
+</hr>
+"	"입구
+[anki:tts lang=ko_KR speed=0.8]입구[/anki:tts]
+"
+"운동장
+[anki:tts lang=ko_KR speed=0.6]운동장[/anki:tts]
+
+"	Стадион, спортивная площадка
+"Стадион, спортивная площадка</br>
+</hr>
+"	"운동장
+[anki:tts lang=ko_KR speed=0.8]운동장[/anki:tts]
+"
+"회사
+[anki:tts lang=ko_KR speed=0.6]회사[/anki:tts]
+
+"	компания; фирма
+"компания; фирма</br>
+</hr>
+"	"회사
+[anki:tts lang=ko_KR speed=0.8]회사[/anki:tts]
+"
+"회사원
+[anki:tts lang=ko_KR speed=0.6]회사원[/anki:tts]
+
+"	работник фирмы; сотрудник
+"работник фирмы; сотрудник</br>
+</hr>
+"	"회사원
+[anki:tts lang=ko_KR speed=0.8]회사원[/anki:tts]
+"
+"대학생
+[anki:tts lang=ko_KR speed=0.6]대학생[/anki:tts]
+
+"	Студент ВУЗа
+"Студент ВУЗа</br>
+</hr>
+"	"대학생
+[anki:tts lang=ko_KR speed=0.8]대학생[/anki:tts]
+"
+"호주
+[anki:tts lang=ko_KR speed=0.6]호주[/anki:tts]
+
+"	Австралия
+"Австралия</br>
+</hr>
+"	"호주
+[anki:tts lang=ko_KR speed=0.8]호주[/anki:tts]
+"
+"이 배우가 접니다
+[anki:tts lang=ko_KR speed=0.6]이 배우가 접니다[/anki:tts]
+
+"	Этот актер - я
+"Этот актер - я</br>
+</hr>
+"	"이 배우가 접니다
+[anki:tts lang=ko_KR speed=0.8]이 배우가 접니다[/anki:tts]
+"
+"가방
+[anki:tts lang=ko_KR speed=0.6]가방[/anki:tts]
+
+"	Сумка
+"Сумка</br>
+</hr>
+"	"가방
+[anki:tts lang=ko_KR speed=0.8]가방[/anki:tts]
+"
+"알은 가방에 있습니다
+[anki:tts lang=ko_KR speed=0.6]알은 가방에 있습니다[/anki:tts]
+
+"	Яйцо находится в сумке
+"Яйцо находится в сумке</br>
+</hr>
+"	"알은 가방에 있습니다
+[anki:tts lang=ko_KR speed=0.8]알은 가방에 있습니다[/anki:tts]
+"
+"책상
+[anki:tts lang=ko_KR speed=0.6]책상[/anki:tts]
+
+"	Рабочий стол; письменный стол
+"Рабочий стол; письменный стол</br>
+</hr>
+"	"책상
+[anki:tts lang=ko_KR speed=0.8]책상[/anki:tts]
+"
+"바다
+[anki:tts lang=ko_KR speed=0.6]바다[/anki:tts]
+
+"	Море, океан
+"Море, океан</br>
+</hr>
+"	"바다
+[anki:tts lang=ko_KR speed=0.8]바다[/anki:tts]
+"
+"나무
+[anki:tts lang=ko_KR speed=0.6]나무[/anki:tts]
+
+"	Дерево; древесина
+"Дерево; древесина</br>
+</hr>
+"	"나무
+[anki:tts lang=ko_KR speed=0.8]나무[/anki:tts]
+"
+"공원
+[anki:tts lang=ko_KR speed=0.6]공원[/anki:tts]
+
+"	Парк
+"Парк</br>
+</hr>
+"	"공원
+[anki:tts lang=ko_KR speed=0.8]공원[/anki:tts]
+"
+"앉다
+[anki:tts lang=ko_KR speed=0.6]앉다[/anki:tts]
+
+"	сидеть; садиться; занимать (место)
+"сидеть; садиться; занимать (место)</br>
+</hr>
+"	"앉다
+[anki:tts lang=ko_KR speed=0.8]앉다[/anki:tts]
+"
+"자동차
+[anki:tts lang=ko_KR speed=0.6]자동차[/anki:tts]
+
+"	Автомобиль
+"Автомобиль</br>
+</hr>
+"	"자동차
+[anki:tts lang=ko_KR speed=0.8]자동차[/anki:tts]
+"
+"의자
+[anki:tts lang=ko_KR speed=0.6]의자[/anki:tts]
+
+"	Стул, сиденье
+"Стул, сиденье</br>
+</hr>
+"	"의자
+[anki:tts lang=ko_KR speed=0.8]의자[/anki:tts]
+"
+"침대
+[anki:tts lang=ko_KR speed=0.6]침대[/anki:tts]
+
+"	постель; кровать; спальное место (в вагоне)
+"постель; кровать; спальное место (в вагоне)</br>
+</hr>
+"	"침대
+[anki:tts lang=ko_KR speed=0.8]침대[/anki:tts]
+"
+"바닥
+[anki:tts lang=ko_KR speed=0.6]바닥[/anki:tts]
+
+"	Пол; дно; ровная поверхность; равнина 
+"Пол; дно; ровная поверхность; равнина </br>
+</hr>
+"	"바닥
+[anki:tts lang=ko_KR speed=0.8]바닥[/anki:tts]
+"
+"도서관
+[anki:tts lang=ko_KR speed=0.6]도서관[/anki:tts]
+
+"	Библиотека
+"Библиотека</br>
+</hr>
+"	"도서관
+[anki:tts lang=ko_KR speed=0.8]도서관[/anki:tts]
+"
+"서다
+[anki:tts lang=ko_KR speed=0.6]서다[/anki:tts]
+
+"	вставать; стоять;
+"вставать; стоять;</br>
+</hr>
+"	"서다
+[anki:tts lang=ko_KR speed=0.8]서다[/anki:tts]
+"
+"탁자
+[anki:tts lang=ko_KR speed=0.6]탁자[/anki:tts]
+
+"	Стол
+"Стол</br>
+</hr>
+"	"탁자
+[anki:tts lang=ko_KR speed=0.8]탁자[/anki:tts]
+"
+"길
+[anki:tts lang=ko_KR speed=0.6]길[/anki:tts]
+
+"	Дорога, путь
+"Дорога, путь</br>
+</hr>
+"	"길
+[anki:tts lang=ko_KR speed=0.8]길[/anki:tts]
+"
+"방
+[anki:tts lang=ko_KR speed=0.6]방[/anki:tts]
+
+"	Комната
+"Комната</br>
+</hr>
+"	"방
+[anki:tts lang=ko_KR speed=0.8]방[/anki:tts]
+"
+"줄
+[anki:tts lang=ko_KR speed=0.6]줄[/anki:tts]
+
+"	Линия; строка; ряд; очередь
+"Линия; строка; ряд; очередь</br>
+</hr>
+"	"줄
+[anki:tts lang=ko_KR speed=0.8]줄[/anki:tts]
+"
+"눕다
+[anki:tts lang=ko_KR speed=0.6]눕다[/anki:tts]
+
+"	Ложиться, лежать
+"Ложиться, лежать</br>
+</hr>
+"	"눕다
+[anki:tts lang=ko_KR speed=0.8]눕다[/anki:tts]
+"
+"우체국
+[anki:tts lang=ko_KR speed=0.6]우체국[/anki:tts]
+
+"	Почтовое отделение
+"Почтовое отделение</br>
+</hr>
+"	"우체국
+[anki:tts lang=ko_KR speed=0.8]우체국[/anki:tts]
+"
+"섬
+[anki:tts lang=ko_KR speed=0.6]섬[/anki:tts]
+
+"	Остров
+"Остров</br>
+</hr>
+"	"섬
+[anki:tts lang=ko_KR speed=0.8]섬[/anki:tts]
+"
+"교실
+[anki:tts lang=ko_KR speed=0.6]교실[/anki:tts]
+
+"	класс; классная комната; аудитория
+"класс; классная комната; аудитория</br>
+</hr>
+"	"교실
+[anki:tts lang=ko_KR speed=0.8]교실[/anki:tts]
+"
+"애
+[anki:tts lang=ko_KR speed=0.6]애[/anki:tts]
+
+"	ребёнок<br>(краткая форма)
+"ребёнок<br>(краткая форма)</br>
+</hr>
+"	"애
+[anki:tts lang=ko_KR speed=0.8]애[/anki:tts]
+"
+"누나
+[anki:tts lang=ko_KR speed=0.6]누나[/anki:tts]
+
+"	Старшая сестра<br>(<i>для брата</i>)
+"Старшая сестра<br>(<i>для брата</i>)</br>
+</hr>
+"	"누나
+[anki:tts lang=ko_KR speed=0.8]누나[/anki:tts]
+"
+"오빠
+[anki:tts lang=ko_KR speed=0.6]오빠[/anki:tts]
+
+"	старший брат<br>(<i>для сестры</i>)
+"старший брат<br>(<i>для сестры</i>)</br>
+</hr>
+"	"오빠
+[anki:tts lang=ko_KR speed=0.8]오빠[/anki:tts]
+"
+"남동생
+[anki:tts lang=ko_KR speed=0.6]남동생[/anki:tts]
+
+"	младший брат
+"младший брат</br>
+</hr>
+"	"남동생
+[anki:tts lang=ko_KR speed=0.8]남동생[/anki:tts]
+"
+"여동생
+[anki:tts lang=ko_KR speed=0.6]여동생[/anki:tts]
+
+"	младшая сестра
+"младшая сестра</br>
+</hr>
+"	"여동생
+[anki:tts lang=ko_KR speed=0.8]여동생[/anki:tts]
+"
+"딸
+[anki:tts lang=ko_KR speed=0.6]딸[/anki:tts]
+
+"	дочь
+"дочь</br>
+</hr>
+"	"딸
+[anki:tts lang=ko_KR speed=0.8]딸[/anki:tts]
+"
+"아들
+[anki:tts lang=ko_KR speed=0.6]아들[/anki:tts]
+
+"	сын
+"сын</br>
+</hr>
+"	"아들
+[anki:tts lang=ko_KR speed=0.8]아들[/anki:tts]
+"
+"남편
+[anki:tts lang=ko_KR speed=0.6]남편[/anki:tts]
+
+"	муж
+"муж</br>
+</hr>
+"	"남편
+[anki:tts lang=ko_KR speed=0.8]남편[/anki:tts]
+"
+"아내
+[anki:tts lang=ko_KR speed=0.6]아내[/anki:tts]
+
+"	жена
+"жена</br>
+</hr>
+"	"아내
+[anki:tts lang=ko_KR speed=0.8]아내[/anki:tts]
+"
+"남자친구
+[anki:tts lang=ko_KR speed=0.6]남자친구[/anki:tts]
+
+"	бойфренд, любимый
+"бойфренд, любимый</br>
+</hr>
+"	"남자친구
+[anki:tts lang=ko_KR speed=0.8]남자친구[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);"">남친</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);"">남친</span>[/anki:tts]
+
+"	(<i>разг.</i>) бойфренд
+"(<i>разг.</i>) бойфренд</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);"">남친</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);"">남친</span>[/anki:tts]
+"
+"여자친구
+[anki:tts lang=ko_KR speed=0.6]여자친구[/anki:tts]
+
+"	гёрлфренд, подружка
+"гёрлфренд, подружка</br>
+</hr>
+"	"여자친구
+[anki:tts lang=ko_KR speed=0.8]여자친구[/anki:tts]
+"
+"여친
+[anki:tts lang=ko_KR speed=0.6]여친[/anki:tts]
+
+"	(<i>разг.</i>) гёрлфренд, подружка, возлюбленная
+"(<i>разг.</i>) гёрлфренд, подружка, возлюбленная</br>
+</hr>
+"	"여친
+[anki:tts lang=ko_KR speed=0.8]여친[/anki:tts]
+"
+"애인
+[anki:tts lang=ko_KR speed=0.6]애인[/anki:tts]
+
+"	"""вторая половинка""<br>(парень&nbsp;<i>или</i>&nbsp;девушка)<br>(<i>в смысле возлюбленные</i>)"
+"""вторая половинка""<br>(парень&nbsp;<i>или</i>&nbsp;девушка)<br>(<i>в смысле возлюбленные</i>)</br>
+</hr>
+"	"애인
+[anki:tts lang=ko_KR speed=0.8]애인[/anki:tts]
+"
+"<span style=""background-color: rgb(255, 255, 255);"">자식</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""background-color: rgb(255, 255, 255);"">자식</span>[/anki:tts]
+
+"	отпрыск<br>сын или дочь
+"отпрыск<br>сын или дочь</br>
+</hr>
+"	"<span style=""background-color: rgb(255, 255, 255);"">자식</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""background-color: rgb(255, 255, 255);"">자식</span>[/anki:tts]
+"
+"최고
+[anki:tts lang=ko_KR speed=0.6]최고[/anki:tts]
+
+"	старший; верховный; лучший<br>(первое слово <i>Chief</i>&nbsp;в <i>CTO</i>)
+"старший; верховный; лучший<br>(первое слово <i>Chief</i>&nbsp;в <i>CTO</i>)</br>
+</hr>
+"	"최고
+[anki:tts lang=ko_KR speed=0.8]최고[/anki:tts]
+"
+"기술
+[anki:tts lang=ko_KR speed=0.6]기술[/anki:tts]
+
+"	технология; <br>техника (в смысле&nbsp;<i>приёмы, умения</i>)
+"технология; <br>техника (в смысле&nbsp;<i>приёмы, умения</i>)</br>
+</hr>
+"	"기술
+[anki:tts lang=ko_KR speed=0.8]기술[/anki:tts]
+"
+"책임자
+[anki:tts lang=ko_KR speed=0.6]책임자[/anki:tts]
+
+"	ответственный; глава<br>(третье слово <i>Officer</i> в <i>CTO</i>)
+"ответственный; глава<br>(третье слово <i>Officer</i> в <i>CTO</i>)</br>
+</hr>
+"	"책임자
+[anki:tts lang=ko_KR speed=0.8]책임자[/anki:tts]
+"
+"최고 기술 책임자
+[anki:tts lang=ko_KR speed=0.6]최고 기술 책임자[/anki:tts]
+
+"	Технический директор<br>(<i>CTO</i>)
+"Технический директор<br>(<i>CTO</i>)</br>
+</hr>
+"	"최고 기술 책임자
+[anki:tts lang=ko_KR speed=0.8]최고 기술 책임자[/anki:tts]
+"
+"저는 최고 기술 책임자입니다
+[anki:tts lang=ko_KR speed=0.6]저는 최고 기술 책임자입니다[/anki:tts]
+
+"	Я <i>есть&nbsp;</i>технический директор
+"Я <i>есть&nbsp;</i>технический директор</br>
+</hr>
+"	"저는 최고 기술 책임자입니다
+[anki:tts lang=ko_KR speed=0.8]저는 최고 기술 책임자입니다[/anki:tts]
+"
+"밖에
+[anki:tts lang=ko_KR speed=0.6]밖에[/anki:tts]
+
+"	наружу, вовне <br>(направление движения)
+"наружу, вовне <br>(направление движения)</br>
+</hr>
+"	"밖에
+[anki:tts lang=ko_KR speed=0.8]밖에[/anki:tts]
+"
+"서울 밖에&nbsp;
+[anki:tts lang=ko_KR speed=0.6]서울 밖에&nbsp;[/anki:tts]
+
+"	вне Сеула
+"вне Сеула</br>
+</hr>
+"	"서울 밖에&nbsp;
+[anki:tts lang=ko_KR speed=0.8]서울 밖에&nbsp;[/anki:tts]
+"
+"줄에 서다
+[anki:tts lang=ko_KR speed=0.6]줄에 서다[/anki:tts]
+
+"	стоять в очереди
+"стоять в очереди</br>
+</hr>
+"	"줄에 서다
+[anki:tts lang=ko_KR speed=0.8]줄에 서다[/anki:tts]
+"
+"탁자 위에 서다
+[anki:tts lang=ko_KR speed=0.6]탁자 위에 서다[/anki:tts]
+
+"	стоять на столе
+"стоять на столе</br>
+</hr>
+"	"탁자 위에 서다
+[anki:tts lang=ko_KR speed=0.8]탁자 위에 서다[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">나무 의자</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">나무 의자</span>[/anki:tts]
+
+"	деревянный стул
+"деревянный стул</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">나무 의자</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">나무 의자</span>[/anki:tts]
+"
+"바나나
+[anki:tts lang=ko_KR speed=0.6]바나나[/anki:tts]
+
+"	Банан
+"Банан</br>
+</hr>
+"	"바나나
+[anki:tts lang=ko_KR speed=0.8]바나나[/anki:tts]
+"
+"차
+[anki:tts lang=ko_KR speed=0.6]차[/anki:tts]
+
+"	Чай
+"Чай</br>
+</hr>
+"	"차
+[anki:tts lang=ko_KR speed=0.8]차[/anki:tts]
+"
+"사과
+[anki:tts lang=ko_KR speed=0.6]사과[/anki:tts]
+
+"	Яблоко
+"Яблоко</br>
+</hr>
+"	"사과
+[anki:tts lang=ko_KR speed=0.8]사과[/anki:tts]
+"
+"신문
+[anki:tts lang=ko_KR speed=0.6]신문[/anki:tts]
+
+"	Газета
+"Газета</br>
+</hr>
+"	"신문
+[anki:tts lang=ko_KR speed=0.8]신문[/anki:tts]
+"
+"컴퓨터
+[anki:tts lang=ko_KR speed=0.6]컴퓨터[/anki:tts]
+
+"	Компьютер
+"Компьютер</br>
+</hr>
+"	"컴퓨터
+[anki:tts lang=ko_KR speed=0.8]컴퓨터[/anki:tts]
+"
+"사전
+[anki:tts lang=ko_KR speed=0.6]사전[/anki:tts]
+
+"	Словарь
+"Словарь</br>
+</hr>
+"	"사전
+[anki:tts lang=ko_KR speed=0.8]사전[/anki:tts]
+"
+"제
+[anki:tts lang=ko_KR speed=0.6]제[/anki:tts]
+
+"	Мой / моя / моё
+"Мой / моя / моё</br>
+</hr>
+"	"제
+[anki:tts lang=ko_KR speed=0.8]제[/anki:tts]
+"
+"미안하다
+[anki:tts lang=ko_KR speed=0.6]미안하다[/anki:tts]
+
+"	Извиняться, просить прощения; смущаться
+"Извиняться, просить прощения; смущаться</br>
+</hr>
+"	"미안하다
+[anki:tts lang=ko_KR speed=0.8]미안하다[/anki:tts]
+"
+"미안해요!
+[anki:tts lang=ko_KR speed=0.6]미안해요![/anki:tts]
+
+"	Прошу прощения!<br>(<i>букв. Я смущён, мне неловко</i>)
+"Прошу прощения!<br>(<i>букв. Я смущён, мне неловко</i>)</br>
+</hr>
+"	"미안해요!
+[anki:tts lang=ko_KR speed=0.8]미안해요![/anki:tts]
+"
+"괜찮아요!
+[anki:tts lang=ko_KR speed=0.6]괜찮아요![/anki:tts]
+
+"	Все в порядке!<br>(<i>ответ на извинения</i>)
+"Все в порядке!<br>(<i>ответ на извинения</i>)</br>
+</hr>
+"	"괜찮아요!
+[anki:tts lang=ko_KR speed=0.8]괜찮아요![/anki:tts]
+"
+"천만에요
+[anki:tts lang=ko_KR speed=0.6]천만에요[/anki:tts]
+
+"	"<div style=""text-align: center;"">Не за что</div><div style=""text-align: center;"">(<i>ответ на спасибо</i>)</div><div style=""text-align: center;"">(букв. <i>Десять миллионов раз</i>)</div>"
+"<div style=""text-align: center;"">Не за что</div><div style=""text-align: center;"">(<i>ответ на спасибо</i>)</div><div style=""text-align: center;"">(букв. <i>Десять миллионов раз</i>)</div></br>
+</hr>
+"	"천만에요
+[anki:tts lang=ko_KR speed=0.8]천만에요[/anki:tts]
+"
+"이름이 뭐예요?
+[anki:tts lang=ko_KR speed=0.6]이름이 뭐예요?[/anki:tts]
+
+"	Как вас зовут?<br>(<i>средний стиль</i>)
+"Как вас зовут?<br>(<i>средний стиль</i>)</br>
+</hr>
+"	"이름이 뭐예요?
+[anki:tts lang=ko_KR speed=0.8]이름이 뭐예요?[/anki:tts]
+"
+"잘 가요
+[anki:tts lang=ko_KR speed=0.6]잘 가요[/anki:tts]
+
+"	До свидания <br>(<i>букв. Хорошо идти</i>)<br>(<i>средний стиль</i>)
+"До свидания <br>(<i>букв. Хорошо идти</i>)<br>(<i>средний стиль</i>)</br>
+</hr>
+"	"잘 가요
+[anki:tts lang=ko_KR speed=0.8]잘 가요[/anki:tts]
+"
+"어느
+[anki:tts lang=ko_KR speed=0.6]어느[/anki:tts]
+
+"	Какой? Который?<br>(<i>вопросительное местоимение</i>)
+"Какой? Который?<br>(<i>вопросительное местоимение</i>)</br>
+</hr>
+"	"어느
+[anki:tts lang=ko_KR speed=0.8]어느[/anki:tts]
+"
+"나라
+[anki:tts lang=ko_KR speed=0.6]나라[/anki:tts]
+
+"	Страна
+"Страна</br>
+</hr>
+"	"나라
+[anki:tts lang=ko_KR speed=0.8]나라[/anki:tts]
+"
+"어느 나라 사람입니까?
+[anki:tts lang=ko_KR speed=0.6]어느 나라 사람입니까?[/anki:tts]
+
+"	Из какой вы страны? <br>(<i>букв. Какой страны вы человек?</i>)
+"Из какой вы страны? <br>(<i>букв. Какой страны вы человек?</i>)</br>
+</hr>
+"	"어느 나라 사람입니까?
+[anki:tts lang=ko_KR speed=0.8]어느 나라 사람입니까?[/anki:tts]
+"
+"마시다
+[anki:tts lang=ko_KR speed=0.6]마시다[/anki:tts]
+
+"	Пить
+"Пить</br>
+</hr>
+"	"마시다
+[anki:tts lang=ko_KR speed=0.8]마시다[/anki:tts]
+"
+"차를 마시다
+[anki:tts lang=ko_KR speed=0.6]차를 마시다[/anki:tts]
+
+"	Пить чай
+"Пить чай</br>
+</hr>
+"	"차를 마시다
+[anki:tts lang=ko_KR speed=0.8]차를 마시다[/anki:tts]
+"
+"차를 마시고 싶습니다
+[anki:tts lang=ko_KR speed=0.6]차를 마시고 싶습니다[/anki:tts]
+
+"	Хочу выпить чай
+"Хочу выпить чай</br>
+</hr>
+"	"차를 마시고 싶습니다
+[anki:tts lang=ko_KR speed=0.8]차를 마시고 싶습니다[/anki:tts]
+"
+"일본
+[anki:tts lang=ko_KR speed=0.6]일본[/anki:tts]
+
+"	Япония
+"Япония</br>
+</hr>
+"	"일본
+[anki:tts lang=ko_KR speed=0.8]일본[/anki:tts]
+"
+"벤치
+[anki:tts lang=ko_KR speed=0.6]벤치[/anki:tts]
+
+"	Скамья, скамейка
+"Скамья, скамейка</br>
+</hr>
+"	"벤치
+[anki:tts lang=ko_KR speed=0.8]벤치[/anki:tts]
+"
+"잎
+[anki:tts lang=ko_KR speed=0.6]잎[/anki:tts]
+
+"	Лист (растения)
+"Лист (растения)</br>
+</hr>
+"	"잎
+[anki:tts lang=ko_KR speed=0.8]잎[/anki:tts]
+"
+"밀크셰이크
+[anki:tts lang=ko_KR speed=0.6]밀크셰이크[/anki:tts]
+
+"	Милкшейк, молочный коктейль
+"Милкшейк, молочный коктейль</br>
+</hr>
+"	"밀크셰이크
+[anki:tts lang=ko_KR speed=0.8]밀크셰이크[/anki:tts]
+"
+"생선
+[anki:tts lang=ko_KR speed=0.6]생선[/anki:tts]
+
+"	рыба
+"рыба</br>
+</hr>
+"	"생선
+[anki:tts lang=ko_KR speed=0.8]생선[/anki:tts]
+"
+"스테이크
+[anki:tts lang=ko_KR speed=0.6]스테이크[/anki:tts]
+
+"	Стейк
+"Стейк</br>
+</hr>
+"	"스테이크
+[anki:tts lang=ko_KR speed=0.8]스테이크[/anki:tts]
+"
+"차갑다
+[anki:tts lang=ko_KR speed=0.6]차갑다[/anki:tts]
+
+"	холодный; морозный
+"холодный; морозный</br>
+</hr>
+"	"차갑다
+[anki:tts lang=ko_KR speed=0.8]차갑다[/anki:tts]
+"
+"뜨겁다
+[anki:tts lang=ko_KR speed=0.6]뜨겁다[/anki:tts]
+
+"	- горячий; жаркий;<br>- страстный
+"- горячий; жаркий;<br>- страстный</br>
+</hr>
+"	"뜨겁다
+[anki:tts lang=ko_KR speed=0.8]뜨겁다[/anki:tts]
+"
+"달걀
+[anki:tts lang=ko_KR speed=0.6]달걀[/anki:tts]
+
+"	куриное яйцо<br>(<i>корейское слово</i>)
+"куриное яйцо<br>(<i>корейское слово</i>)</br>
+</hr>
+"	"달걀
+[anki:tts lang=ko_KR speed=0.8]달걀[/anki:tts]
+"
+"김밥
+[anki:tts lang=ko_KR speed=0.6]김밥[/anki:tts]
+
+"	кимбап
+"кимбап</br>
+</hr>
+"	"김밥
+[anki:tts lang=ko_KR speed=0.8]김밥[/anki:tts]
+"
+"불고기
+[anki:tts lang=ko_KR speed=0.6]불고기[/anki:tts]
+
+"	пульгоги
+"пульгоги</br>
+</hr>
+"	"불고기
+[anki:tts lang=ko_KR speed=0.8]불고기[/anki:tts]
+"
+"싸다
+[anki:tts lang=ko_KR speed=0.6]싸다[/anki:tts]
+
+"	недорогой, дешёвый
+"недорогой, дешёвый</br>
+</hr>
+"	"싸다
+[anki:tts lang=ko_KR speed=0.8]싸다[/anki:tts]
+"
+"비싸다
+[anki:tts lang=ko_KR speed=0.6]비싸다[/anki:tts]
+
+"	- дорогой (о цене)<br>- ценный
+"- дорогой (о цене)<br>- ценный</br>
+</hr>
+"	"비싸다
+[anki:tts lang=ko_KR speed=0.8]비싸다[/anki:tts]
+"
+"팔다
+[anki:tts lang=ko_KR speed=0.6]팔다[/anki:tts]
+
+"	продавать
+"продавать</br>
+</hr>
+"	"팔다
+[anki:tts lang=ko_KR speed=0.8]팔다[/anki:tts]
+"
+"딸기
+[anki:tts lang=ko_KR speed=0.6]딸기[/anki:tts]
+
+"	клубника
+"клубника</br>
+</hr>
+"	"딸기
+[anki:tts lang=ko_KR speed=0.8]딸기[/anki:tts]
+"
+"수프
+[anki:tts lang=ko_KR speed=0.6]수프[/anki:tts]
+
+"	суп
+"суп</br>
+</hr>
+"	"수프
+[anki:tts lang=ko_KR speed=0.8]수프[/anki:tts]
+"
+"토마토
+[anki:tts lang=ko_KR speed=0.6]토마토[/anki:tts]
+
+"	помидор, томат
+"помидор, томат</br>
+</hr>
+"	"토마토
+[anki:tts lang=ko_KR speed=0.8]토마토[/anki:tts]
+"
+"햄버거
+[anki:tts lang=ko_KR speed=0.6]햄버거[/anki:tts]
+
+"	гамбургер
+"гамбургер</br>
+</hr>
+"	"햄버거
+[anki:tts lang=ko_KR speed=0.8]햄버거[/anki:tts]
+"
+"사다
+[anki:tts lang=ko_KR speed=0.6]사다[/anki:tts]
+
+"	покупать, приобретать
+"покупать, приобретать</br>
+</hr>
+"	"사다
+[anki:tts lang=ko_KR speed=0.8]사다[/anki:tts]
+"
+"맥주
+[anki:tts lang=ko_KR speed=0.6]맥주[/anki:tts]
+
+"	пиво
+"пиво</br>
+</hr>
+"	"맥주
+[anki:tts lang=ko_KR speed=0.8]맥주[/anki:tts]
+"
+"와인
+[anki:tts lang=ko_KR speed=0.6]와인[/anki:tts]
+
+"	вино
+"вино</br>
+</hr>
+"	"와인
+[anki:tts lang=ko_KR speed=0.8]와인[/anki:tts]
+"
+"주스
+[anki:tts lang=ko_KR speed=0.6]주스[/anki:tts]
+
+"	сок
+"сок</br>
+</hr>
+"	"주스
+[anki:tts lang=ko_KR speed=0.8]주스[/anki:tts]
+"
+"라면
+[anki:tts lang=ko_KR speed=0.6]라면[/anki:tts]
+
+"	рамен, лапша
+"рамен, лапша</br>
+</hr>
+"	"라면
+[anki:tts lang=ko_KR speed=0.8]라면[/anki:tts]
+"
+"오렌지
+[anki:tts lang=ko_KR speed=0.6]오렌지[/anki:tts]
+
+"	апельсин
+"апельсин</br>
+</hr>
+"	"오렌지
+[anki:tts lang=ko_KR speed=0.8]오렌지[/anki:tts]
+"
+"야채
+[anki:tts lang=ko_KR speed=0.6]야채[/anki:tts]
+
+"	овощи
+"овощи</br>
+</hr>
+"	"야채
+[anki:tts lang=ko_KR speed=0.8]야채[/anki:tts]
+"
+"밭
+[anki:tts lang=ko_KR speed=0.6]밭[/anki:tts]
+
+"	поле
+"поле</br>
+</hr>
+"	"밭
+[anki:tts lang=ko_KR speed=0.8]밭[/anki:tts]
+"
+"환영합니다
+[anki:tts lang=ko_KR speed=0.6]환영합니다[/anki:tts]
+
+"	Добро пожаловать <br>(букв. <i>Приветствую!</i>)
+"Добро пожаловать <br>(букв. <i>Приветствую!</i>)</br>
+</hr>
+"	"환영합니다
+[anki:tts lang=ko_KR speed=0.8]환영합니다[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">반갑습니다</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">반갑습니다</span>[/anki:tts]
+
+"	Рад встрече
+"Рад встрече</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">반갑습니다</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">반갑습니다</span>[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">만나서 반갑습니다!</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">만나서 반갑습니다!</span>[/anki:tts]
+
+"	Рад встрече!<br>(длинно)
+"Рад встрече!<br>(длинно)</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">만나서 반갑습니다!</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">만나서 반갑습니다!</span>[/anki:tts]
+"
+"실례하다
+[anki:tts lang=ko_KR speed=0.6]실례하다[/anki:tts]
+
+"	Просить прощения; быть грубым; нарушать этикет
+"Просить прощения; быть грубым; нарушать этикет</br>
+</hr>
+"	"실례하다
+[anki:tts lang=ko_KR speed=0.8]실례하다[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">실례합니다</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">실례합니다</span>[/anki:tts]
+
+"	Прошу прощения!<br>(букв. <i>Я груб!</i>)
+"Прошу прощения!<br>(букв. <i>Я груб!</i>)</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">실례합니다</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">실례합니다</span>[/anki:tts]
+"
+"<span style=""color: rgb(75, 75, 75);"">죄</span><span style=""color: rgb(75, 75, 75);"">송</span><span style=""color: rgb(75, 75, 75);"">합</span><span style=""color: rgb(75, 75, 75);"">니</span><span style=""color: rgb(75, 75, 75);"">다</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(75, 75, 75);"">죄</span><span style=""color: rgb(75, 75, 75);"">송</span><span style=""color: rgb(75, 75, 75);"">합</span><span style=""color: rgb(75, 75, 75);"">니</span><span style=""color: rgb(75, 75, 75);"">다</span>[/anki:tts]
+
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">мне очень жаль, я раскаиваюсь</span>"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">мне очень жаль, я раскаиваюсь</span></br>
+</hr>
+"	"<span style=""color: rgb(75, 75, 75);"">죄</span><span style=""color: rgb(75, 75, 75);"">송</span><span style=""color: rgb(75, 75, 75);"">합</span><span style=""color: rgb(75, 75, 75);"">니</span><span style=""color: rgb(75, 75, 75);"">다</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(75, 75, 75);"">죄</span><span style=""color: rgb(75, 75, 75);"">송</span><span style=""color: rgb(75, 75, 75);"">합</span><span style=""color: rgb(75, 75, 75);"">니</span><span style=""color: rgb(75, 75, 75);"">다</span>[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">고맙습니다</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">고맙습니다</span>[/anki:tts]
+
+"	Спасибо!<br>(традиц. корейское)
+"Спасибо!<br>(традиц. корейское)</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">고맙습니다</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">고맙습니다</span>[/anki:tts]
+"
+"뵙겠습니다!
+[anki:tts lang=ko_KR speed=0.6]뵙겠습니다![/anki:tts]
+
+"	До встречи!<br>букв. <i>обязательно&nbsp;<b>увидимся</b></i>!<br>
+"До встречи!<br>букв. <i>обязательно&nbsp;<b>увидимся</b></i>!<br></br>
+</hr>
+"	"뵙겠습니다!
+[anki:tts lang=ko_KR speed=0.8]뵙겠습니다![/anki:tts]
+"
+"성
+[anki:tts lang=ko_KR speed=0.6]성[/anki:tts]
+
+"	Фамилия
+"Фамилия</br>
+</hr>
+"	"성
+[anki:tts lang=ko_KR speed=0.8]성[/anki:tts]
+"
+"가게
+[anki:tts lang=ko_KR speed=0.6]가게[/anki:tts]
+
+"	(маленький) магазин
+"(маленький) магазин</br>
+</hr>
+"	"가게
+[anki:tts lang=ko_KR speed=0.8]가게[/anki:tts]
+"
+"어디
+[anki:tts lang=ko_KR speed=0.6]어디[/anki:tts]
+
+"	где?
+"где?</br>
+</hr>
+"	"어디
+[anki:tts lang=ko_KR speed=0.8]어디[/anki:tts]
+"
+"어디에
+[anki:tts lang=ko_KR speed=0.6]어디에[/anki:tts]
+
+"	куда?
+"куда?</br>
+</hr>
+"	"어디에
+[anki:tts lang=ko_KR speed=0.8]어디에[/anki:tts]
+"
+"어디에 갑니까?
+[anki:tts lang=ko_KR speed=0.6]어디에 갑니까?[/anki:tts]
+
+"	Куда вы идёте?
+"Куда вы идёте?</br>
+</hr>
+"	"어디에 갑니까?
+[anki:tts lang=ko_KR speed=0.8]어디에 갑니까?[/anki:tts]
+"
+"가게에 갑니다&nbsp;
+[anki:tts lang=ko_KR speed=0.6]가게에 갑니다&nbsp;[/anki:tts]
+
+"	Я иду в магазин.
+"Я иду в магазин.</br>
+</hr>
+"	"가게에 갑니다&nbsp;
+[anki:tts lang=ko_KR speed=0.8]가게에 갑니다&nbsp;[/anki:tts]
+"
+"내일
+[anki:tts lang=ko_KR speed=0.6]내일[/anki:tts]
+
+"	завтра
+"завтра</br>
+</hr>
+"	"내일
+[anki:tts lang=ko_KR speed=0.8]내일[/anki:tts]
+"
+"내일 봬요!
+[anki:tts lang=ko_KR speed=0.6]내일 봬요![/anki:tts]
+
+"	Увидимся завтра!<br>(средний стиль)
+"Увидимся завтра!<br>(средний стиль)</br>
+</hr>
+"	"내일 봬요!
+[anki:tts lang=ko_KR speed=0.8]내일 봬요![/anki:tts]
+"
+"그럼 내일 봬요!
+[anki:tts lang=ko_KR speed=0.6]그럼 내일 봬요![/anki:tts]
+
+"	Тогда до завтра!<br>(средний стиль)
+"Тогда до завтра!<br>(средний стиль)</br>
+</hr>
+"	"그럼 내일 봬요!
+[anki:tts lang=ko_KR speed=0.8]그럼 내일 봬요![/anki:tts]
+"
+"물론이에요
+[anki:tts lang=ko_KR speed=0.6]물론이에요[/anki:tts]
+
+"	Конечно!
+"Конечно!</br>
+</hr>
+"	"물론이에요
+[anki:tts lang=ko_KR speed=0.8]물론이에요[/anki:tts]
+"
+"계란
+[anki:tts lang=ko_KR speed=0.6]계란[/anki:tts]
+
+"	Куриное яйцо <br>(китайское слово)
+"Куриное яйцо <br>(китайское слово)</br>
+</hr>
+"	"계란
+[anki:tts lang=ko_KR speed=0.8]계란[/anki:tts]
+"
+"예쁘다
+[anki:tts lang=ko_KR speed=0.6]예쁘다[/anki:tts]
+
+"	красивый, приятный на вид, милый
+"красивый, приятный на вид, милый</br>
+</hr>
+"	"예쁘다
+[anki:tts lang=ko_KR speed=0.8]예쁘다[/anki:tts]
+"
+"더럽다
+[anki:tts lang=ko_KR speed=0.6]더럽다[/anki:tts]
+
+"	грязный;неопрятный
+"грязный;неопрятный</br>
+</hr>
+"	"더럽다
+[anki:tts lang=ko_KR speed=0.8]더럽다[/anki:tts]
+"
+"바쁘다
+[anki:tts lang=ko_KR speed=0.6]바쁘다[/anki:tts]
+
+"	занятой
+"занятой</br>
+</hr>
+"	"바쁘다
+[anki:tts lang=ko_KR speed=0.8]바쁘다[/anki:tts]
+"
+"아프다
+[anki:tts lang=ko_KR speed=0.6]아프다[/anki:tts]
+
+"	болеть (быть нездоровым); <br>болеть (испытывать боль)
+"болеть (быть нездоровым); <br>болеть (испытывать боль)</br>
+</hr>
+"	"아프다
+[anki:tts lang=ko_KR speed=0.8]아프다[/anki:tts]
+"
+"용감하다
+[anki:tts lang=ko_KR speed=0.6]용감하다[/anki:tts]
+
+"	отважный; мужественный
+"отважный; мужественный</br>
+</hr>
+"	"용감하다
+[anki:tts lang=ko_KR speed=0.8]용감하다[/anki:tts]
+"
+"날씬하다
+[anki:tts lang=ko_KR speed=0.6]날씬하다[/anki:tts]
+
+"	тонкий; стройный
+"тонкий; стройный</br>
+</hr>
+"	"날씬하다
+[anki:tts lang=ko_KR speed=0.8]날씬하다[/anki:tts]
+"
+"키가 작다
+[anki:tts lang=ko_KR speed=0.6]키가 작다[/anki:tts]
+
+"	невысокий, низкий<br>(букв. <i>рост маленький</i>)
+"невысокий, низкий<br>(букв. <i>рост маленький</i>)</br>
+</hr>
+"	"키가 작다
+[anki:tts lang=ko_KR speed=0.8]키가 작다[/anki:tts]
+"
+"키가 크다
+[anki:tts lang=ko_KR speed=0.6]키가 크다[/anki:tts]
+
+"	высокий<br>(букв. <i>рост большой</i>)
+"высокий<br>(букв. <i>рост большой</i>)</br>
+</hr>
+"	"키가 크다
+[anki:tts lang=ko_KR speed=0.8]키가 크다[/anki:tts]
+"
+"뚱뚱하다
+[anki:tts lang=ko_KR speed=0.6]뚱뚱하다[/anki:tts]
+
+"	толстый, полный, пухлый
+"толстый, полный, пухлый</br>
+</hr>
+"	"뚱뚱하다
+[anki:tts lang=ko_KR speed=0.8]뚱뚱하다[/anki:tts]
+"
+"뚱뚱하지 않습니다
+[anki:tts lang=ko_KR speed=0.6]뚱뚱하지 않습니다[/anki:tts]
+
+"	<i>я</i>&nbsp;не толстый
+"<i>я</i>&nbsp;не толстый</br>
+</hr>
+"	"뚱뚱하지 않습니다
+[anki:tts lang=ko_KR speed=0.8]뚱뚱하지 않습니다[/anki:tts]
+"
+"키
+[anki:tts lang=ko_KR speed=0.6]키[/anki:tts]
+
+"	рост
+"рост</br>
+</hr>
+"	"키
+[anki:tts lang=ko_KR speed=0.8]키[/anki:tts]
+"
+"음료수
+[anki:tts lang=ko_KR speed=0.6]음료수[/anki:tts]
+
+"	напиток
+"напиток</br>
+</hr>
+"	"음료수
+[anki:tts lang=ko_KR speed=0.8]음료수[/anki:tts]
+"
+"주스는 음료수입니다
+[anki:tts lang=ko_KR speed=0.6]주스는 음료수입니다[/anki:tts]
+
+"	сок&nbsp;<i>есть</i>&nbsp;напиток
+"сок&nbsp;<i>есть</i>&nbsp;напиток</br>
+</hr>
+"	"주스는 음료수입니다
+[anki:tts lang=ko_KR speed=0.8]주스는 음료수입니다[/anki:tts]
+"
+"게으르다
+[anki:tts lang=ko_KR speed=0.6]게으르다[/anki:tts]
+
+"	Ленивый, нерадивый
+"Ленивый, нерадивый</br>
+</hr>
+"	"게으르다
+[anki:tts lang=ko_KR speed=0.8]게으르다[/anki:tts]
+"
+"똑똑하다
+[anki:tts lang=ko_KR speed=0.6]똑똑하다[/anki:tts]
+
+"	Отчётливый; умный
+"Отчётливый; умный</br>
+</hr>
+"	"똑똑하다
+[anki:tts lang=ko_KR speed=0.8]똑똑하다[/anki:tts]
+"
+"착하다
+[anki:tts lang=ko_KR speed=0.6]착하다[/anki:tts]
+
+"	Добрый, добродушный, добросердечный
+"Добрый, добродушный, добросердечный</br>
+</hr>
+"	"착하다
+[anki:tts lang=ko_KR speed=0.8]착하다[/anki:tts]
+"
+"깨끗하다
+[anki:tts lang=ko_KR speed=0.6]깨끗하다[/anki:tts]
+
+"	чистый, опрятный
+"чистый, опрятный</br>
+</hr>
+"	"깨끗하다
+[anki:tts lang=ko_KR speed=0.8]깨끗하다[/anki:tts]
+"
+"출구
+[anki:tts lang=ko_KR speed=0.6]출구[/anki:tts]
+
+"	Выход
+"Выход</br>
+</hr>
+"	"출구
+[anki:tts lang=ko_KR speed=0.8]출구[/anki:tts]
+"
+"튼튼하다
+[anki:tts lang=ko_KR speed=0.6]튼튼하다[/anki:tts]
+
+"	Здоровый<br>Крепкий
+"Здоровый<br>Крепкий</br>
+</hr>
+"	"튼튼하다
+[anki:tts lang=ko_KR speed=0.8]튼튼하다[/anki:tts]
+"
+"편지
+[anki:tts lang=ko_KR speed=0.6]편지[/anki:tts]
+
+"	Письмо<br>(почта)
+"Письмо<br>(почта)</br>
+</hr>
+"	"편지
+[anki:tts lang=ko_KR speed=0.8]편지[/anki:tts]
+"
+"쓰다
+[anki:tts lang=ko_KR speed=0.6]쓰다[/anki:tts]
+
+"	Писать
+"Писать</br>
+</hr>
+"	"쓰다
+[anki:tts lang=ko_KR speed=0.8]쓰다[/anki:tts]
+"
+"읽다
+[anki:tts lang=ko_KR speed=0.6]읽다[/anki:tts]
+
+"	Читать
+"Читать</br>
+</hr>
+"	"읽다
+[anki:tts lang=ko_KR speed=0.8]읽다[/anki:tts]
+"
+"서점
+[anki:tts lang=ko_KR speed=0.6]서점[/anki:tts]
+
+"	Книжный магазин
+"Книжный магазин</br>
+</hr>
+"	"서점
+[anki:tts lang=ko_KR speed=0.8]서점[/anki:tts]
+"
+"기사
+[anki:tts lang=ko_KR speed=0.6]기사[/anki:tts]
+
+"	Статья, заметка
+"Статья, заметка</br>
+</hr>
+"	"기사
+[anki:tts lang=ko_KR speed=0.8]기사[/anki:tts]
+"
+"수영장
+[anki:tts lang=ko_KR speed=0.6]수영장[/anki:tts]
+
+"	Бассейн
+"Бассейн</br>
+</hr>
+"	"수영장
+[anki:tts lang=ko_KR speed=0.8]수영장[/anki:tts]
+"
+"수영하다
+[anki:tts lang=ko_KR speed=0.6]수영하다[/anki:tts]
+
+"	Плавать
+"Плавать</br>
+</hr>
+"	"수영하다
+[anki:tts lang=ko_KR speed=0.8]수영하다[/anki:tts]
+"
+"학원
+[anki:tts lang=ko_KR speed=0.6]학원[/anki:tts]
+
+"	Академия
+"Академия</br>
+</hr>
+"	"학원
+[anki:tts lang=ko_KR speed=0.8]학원[/anki:tts]
+"
+"독서실
+[anki:tts lang=ko_KR speed=0.6]독서실[/anki:tts]
+
+"	Читальный зал, читальня
+"Читальный зал, читальня</br>
+</hr>
+"	"독서실
+[anki:tts lang=ko_KR speed=0.8]독서실[/anki:tts]
+"
+"기숙사
+[anki:tts lang=ko_KR speed=0.6]기숙사[/anki:tts]
+
+"	Общежитие, пансионат
+"Общежитие, пансионат</br>
+</hr>
+"	"기숙사
+[anki:tts lang=ko_KR speed=0.8]기숙사[/anki:tts]
+"
+"기다리다
+[anki:tts lang=ko_KR speed=0.6]기다리다[/anki:tts]
+
+"	ждать, ожидать, подождать
+"ждать, ожидать, подождать</br>
+</hr>
+"	"기다리다
+[anki:tts lang=ko_KR speed=0.8]기다리다[/anki:tts]
+"
+"저희
+[anki:tts lang=ko_KR speed=0.6]저희[/anki:tts]
+
+"	Мы<br>(формально-вежливо)
+"Мы<br>(формально-вежливо)</br>
+</hr>
+"	"저희
+[anki:tts lang=ko_KR speed=0.8]저희[/anki:tts]
+"
+"부르다
+[anki:tts lang=ko_KR speed=0.6]부르다[/anki:tts]
+
+"	Петь<br>Звать
+"Петь<br>Звать</br>
+</hr>
+"	"부르다
+[anki:tts lang=ko_KR speed=0.8]부르다[/anki:tts]
+"
+"로비
+[anki:tts lang=ko_KR speed=0.6]로비[/anki:tts]
+
+"	Лобби
+"Лобби</br>
+</hr>
+"	"로비
+[anki:tts lang=ko_KR speed=0.8]로비[/anki:tts]
+"
+"순서
+[anki:tts lang=ko_KR speed=0.6]순서[/anki:tts]
+
+"	Очередность
+"Очередность</br>
+</hr>
+"	"순서
+[anki:tts lang=ko_KR speed=0.8]순서[/anki:tts]
+"
+"저는 제 순서를 기다립니다.
+[anki:tts lang=ko_KR speed=0.6]저는 제 순서를 기다립니다.[/anki:tts]
+
+"	Я жду свою очередь
+"Я жду свою очередь</br>
+</hr>
+"	"저는 제 순서를 기다립니다.
+[anki:tts lang=ko_KR speed=0.8]저는 제 순서를 기다립니다.[/anki:tts]
+"
+"수영
+[anki:tts lang=ko_KR speed=0.6]수영[/anki:tts]
+
+"	Плавание
+"Плавание</br>
+</hr>
+"	"수영
+[anki:tts lang=ko_KR speed=0.8]수영[/anki:tts]
+"
+"별
+[anki:tts lang=ko_KR speed=0.6]별[/anki:tts]
+
+"	Звезда
+"Звезда</br>
+</hr>
+"	"별
+[anki:tts lang=ko_KR speed=0.8]별[/anki:tts]
+"
+"장바구니
+[anki:tts lang=ko_KR speed=0.6]장바구니[/anki:tts]
+
+"	Корзина для покупок в магазине
+"Корзина для покупок в магазине</br>
+</hr>
+"	"장바구니
+[anki:tts lang=ko_KR speed=0.8]장바구니[/anki:tts]
+"
+"바구니
+[anki:tts lang=ko_KR speed=0.6]바구니[/anki:tts]
+
+"	Корзина
+"Корзина</br>
+</hr>
+"	"바구니
+[anki:tts lang=ko_KR speed=0.8]바구니[/anki:tts]
+"
+"담다
+[anki:tts lang=ko_KR speed=0.6]담다[/anki:tts]
+
+"	Класть во что-либо
+"Класть во что-либо</br>
+</hr>
+"	"담다
+[anki:tts lang=ko_KR speed=0.8]담다[/anki:tts]
+"
+"장바구니 담기
+[anki:tts lang=ko_KR speed=0.6]장바구니 담기[/anki:tts]
+
+"	Положить в корзину<br>(купанг)<br>(букв: укладка в корзину покупок)<br>(отглагольное существительное)
+"Положить в корзину<br>(купанг)<br>(букв: укладка в корзину покупок)<br>(отглагольное существительное)</br>
+</hr>
+"	"장바구니 담기
+[anki:tts lang=ko_KR speed=0.8]장바구니 담기[/anki:tts]
+"
+"구매
+[anki:tts lang=ko_KR speed=0.6]구매[/anki:tts]
+
+"	Покупка (процесс приобретения)<br>Закупка
+"Покупка (процесс приобретения)<br>Закупка</br>
+</hr>
+"	"구매
+[anki:tts lang=ko_KR speed=0.8]구매[/anki:tts]
+"
+"바로구매
+[anki:tts lang=ko_KR speed=0.6]바로구매[/anki:tts]
+
+"	Купить немедленно<br>(купанг)<br>(букв: немедленная покупка)
+"Купить немедленно<br>(купанг)<br>(букв: немедленная покупка)</br>
+</hr>
+"	"바로구매
+[anki:tts lang=ko_KR speed=0.8]바로구매[/anki:tts]
+"
+"무료
+[anki:tts lang=ko_KR speed=0.6]무료[/anki:tts]
+
+"	Бесплатный
+"Бесплатный</br>
+</hr>
+"	"무료
+[anki:tts lang=ko_KR speed=0.8]무료[/anki:tts]
+"
+"무료배송
+[anki:tts lang=ko_KR speed=0.6]무료배송[/anki:tts]
+
+"	Бесплатная доставка 
+"Бесплатная доставка </br>
+</hr>
+"	"무료배송
+[anki:tts lang=ko_KR speed=0.8]무료배송[/anki:tts]
+"
+"상품
+[anki:tts lang=ko_KR speed=0.6]상품[/anki:tts]
+
+"	Продукт, товары
+"Продукт, товары</br>
+</hr>
+"	"상품
+[anki:tts lang=ko_KR speed=0.8]상품[/anki:tts]
+"
+"2개 상품 구매하기
+[anki:tts lang=ko_KR speed=0.6]2개 상품 구매하기[/anki:tts]
+
+"	Покупка двух товаров
+"Покупка двух товаров</br>
+</hr>
+"	"2개 상품 구매하기
+[anki:tts lang=ko_KR speed=0.8]2개 상품 구매하기[/anki:tts]
+"
+"배송
+[anki:tts lang=ko_KR speed=0.6]배송[/anki:tts]
+
+"	Доставка
+"Доставка</br>
+</hr>
+"	"배송
+[anki:tts lang=ko_KR speed=0.8]배송[/anki:tts]
+"
+"결제
+[anki:tts lang=ko_KR speed=0.6]결제[/anki:tts]
+
+"	Оплата
+"Оплата</br>
+</hr>
+"	"결제
+[anki:tts lang=ko_KR speed=0.8]결제[/anki:tts]
+"
+"수단
+[anki:tts lang=ko_KR speed=0.6]수단[/anki:tts]
+
+"	Способ, средство
+"Способ, средство</br>
+</hr>
+"	"수단
+[anki:tts lang=ko_KR speed=0.8]수단[/anki:tts]
+"
+"결제수단
+[anki:tts lang=ko_KR speed=0.6]결제수단[/anki:tts]
+
+"	Способ оплаты
+"Способ оплаты</br>
+</hr>
+"	"결제수단
+[anki:tts lang=ko_KR speed=0.8]결제수단[/anki:tts]
+"
+"받다
+[anki:tts lang=ko_KR speed=0.6]받다[/anki:tts]
+
+"	Брать, получать
+"Брать, получать</br>
+</hr>
+"	"받다
+[anki:tts lang=ko_KR speed=0.8]받다[/anki:tts]
+"
+"결제하기
+[anki:tts lang=ko_KR speed=0.6]결제하기[/anki:tts]
+
+"	Оплата <br>(кнопка в купанге)
+"Оплата <br>(кнопка в купанге)</br>
+</hr>
+"	"결제하기
+[anki:tts lang=ko_KR speed=0.8]결제하기[/anki:tts]
+"
+"조심
+[anki:tts lang=ko_KR speed=0.6]조심[/anki:tts]
+
+"	Осторожно!<br>(букв: осторожность)
+"Осторожно!<br>(букв: осторожность)</br>
+</hr>
+"	"조심
+[anki:tts lang=ko_KR speed=0.8]조심[/anki:tts]
+"
+"뱀
+[anki:tts lang=ko_KR speed=0.6]뱀[/anki:tts]
+
+"	Змея
+"Змея</br>
+</hr>
+"	"뱀
+[anki:tts lang=ko_KR speed=0.8]뱀[/anki:tts]
+"
+"가볍다
+[anki:tts lang=ko_KR speed=0.6]가볍다[/anki:tts]
+
+"	Легкий - не тяжёлый <br>Лёгкий - простой, несложный
+"Легкий - не тяжёлый <br>Лёгкий - простой, несложный</br>
+</hr>
+"	"가볍다
+[anki:tts lang=ko_KR speed=0.8]가볍다[/anki:tts]
+"
+"이 책은 가볍지 않습니다
+[anki:tts lang=ko_KR speed=0.6]이 책은 가볍지 않습니다[/anki:tts]
+
+"	Эта книга тяжёлая <br>(<i>Эта книга не-лёгкая</i>)
+"Эта книга тяжёлая <br>(<i>Эта книга не-лёгкая</i>)</br>
+</hr>
+"	"이 책은 가볍지 않습니다
+[anki:tts lang=ko_KR speed=0.8]이 책은 가볍지 않습니다[/anki:tts]
+"
+"무겁다 
+[anki:tts lang=ko_KR speed=0.6]무겁다 [/anki:tts]
+
+"	тяжёлый; весомый; важный
+"тяжёлый; весомый; важный</br>
+</hr>
+"	"무겁다 
+[anki:tts lang=ko_KR speed=0.8]무겁다 [/anki:tts]
+"
+"그 책은 무겁습니다
+[anki:tts lang=ko_KR speed=0.6]그 책은 무겁습니다[/anki:tts]
+
+"	Та книга тяжёлая
+"Та книга тяжёлая</br>
+</hr>
+"	"그 책은 무겁습니다
+[anki:tts lang=ko_KR speed=0.8]그 책은 무겁습니다[/anki:tts]
+"
+"물건
+[anki:tts lang=ko_KR speed=0.6]물건[/anki:tts]
+
+"	вещь; предмет
+"вещь; предмет</br>
+</hr>
+"	"물건
+[anki:tts lang=ko_KR speed=0.8]물건[/anki:tts]
+"
+"저 물건은 제 것입니다
+[anki:tts lang=ko_KR speed=0.6]저 물건은 제 것입니다[/anki:tts]
+
+"	Вон та вещь моя.
+"Вон та вещь моя.</br>
+</hr>
+"	"저 물건은 제 것입니다
+[anki:tts lang=ko_KR speed=0.8]저 물건은 제 것입니다[/anki:tts]
+"
+"저 집도 우리의 것입니다
+[anki:tts lang=ko_KR speed=0.6]저 집도 우리의 것입니다[/anki:tts]
+
+"	Тот дом тоже принадлежит нам.
+"Тот дом тоже принадлежит нам.</br>
+</hr>
+"	"저 집도 우리의 것입니다
+[anki:tts lang=ko_KR speed=0.8]저 집도 우리의 것입니다[/anki:tts]
+"
+"많다
+[anki:tts lang=ko_KR speed=0.6]많다[/anki:tts]
+
+"	 многочисленный; много
+" многочисленный; много</br>
+</hr>
+"	"많다
+[anki:tts lang=ko_KR speed=0.8]많다[/anki:tts]
+"
+"집에 과일이 많습니까?
+[anki:tts lang=ko_KR speed=0.6]집에 과일이 많습니까?[/anki:tts]
+
+"	Дома много фруктов?
+"Дома много фруктов?</br>
+</hr>
+"	"집에 과일이 많습니까?
+[anki:tts lang=ko_KR speed=0.8]집에 과일이 많습니까?[/anki:tts]
+"
+"오늘은 여기까지.
+[anki:tts lang=ko_KR speed=0.6]오늘은 여기까지.[/anki:tts]
+
+"	На сегодня всё.<br>
+"На сегодня всё.<br></br>
+</hr>
+"	"오늘은 여기까지.
+[anki:tts lang=ko_KR speed=0.8]오늘은 여기까지.[/anki:tts]
+"
+"저기엔 어떻게 갑니까?
+[anki:tts lang=ko_KR speed=0.6]저기엔 어떻게 갑니까?[/anki:tts]
+
+"	Как туда добраться?
+"Как туда добраться?</br>
+</hr>
+"	"저기엔 어떻게 갑니까?
+[anki:tts lang=ko_KR speed=0.8]저기엔 어떻게 갑니까?[/anki:tts]
+"
+"저기는 춥습니까?
+[anki:tts lang=ko_KR speed=0.6]저기는 춥습니까?[/anki:tts]
+
+"	Там холодно?<br>(букв. То-место (сущ.) холодное?)<br>
+"Там холодно?<br>(букв. То-место (сущ.) холодное?)<br></br>
+</hr>
+"	"저기는 춥습니까?
+[anki:tts lang=ko_KR speed=0.8]저기는 춥습니까?[/anki:tts]
+"
+"여기, 거기, 저기
+[anki:tts lang=ko_KR speed=0.6]여기, 거기, 저기[/anki:tts]
+
+"	Здесь, там, во-о-он там
+"Здесь, там, во-о-он там</br>
+</hr>
+"	"여기, 거기, 저기
+[anki:tts lang=ko_KR speed=0.8]여기, 거기, 저기[/anki:tts]
+"
+"춥다
+[anki:tts lang=ko_KR speed=0.6]춥다[/anki:tts]
+
+"	Холодный 
+"Холодный </br>
+</hr>
+"	"춥다
+[anki:tts lang=ko_KR speed=0.8]춥다[/anki:tts]
+"
+"덥다
+[anki:tts lang=ko_KR speed=0.6]덥다[/anki:tts]
+
+"	Жаркий
+"Жаркий</br>
+</hr>
+"	"덥다
+[anki:tts lang=ko_KR speed=0.8]덥다[/anki:tts]
+"
+"집은 덥습니다
+[anki:tts lang=ko_KR speed=0.6]집은 덥습니다[/anki:tts]
+
+"	Дома жарко<br>(букв. Дом горячий)<br>
+"Дома жарко<br>(букв. Дом горячий)<br></br>
+</hr>
+"	"집은 덥습니다
+[anki:tts lang=ko_KR speed=0.8]집은 덥습니다[/anki:tts]
+"
+"방은 춥지 않습니다
+[anki:tts lang=ko_KR speed=0.6]방은 춥지 않습니다[/anki:tts]
+
+"	В комнате не холодно<br>(букв. Комната не холодная)<br>
+"В комнате не холодно<br>(букв. Комната не холодная)<br></br>
+</hr>
+"	"방은 춥지 않습니다
+[anki:tts lang=ko_KR speed=0.8]방은 춥지 않습니다[/anki:tts]
+"
+"건물
+[anki:tts lang=ko_KR speed=0.6]건물[/anki:tts]
+
+"	Здание
+"Здание</br>
+</hr>
+"	"건물
+[anki:tts lang=ko_KR speed=0.8]건물[/anki:tts]
+"
+"사무실
+[anki:tts lang=ko_KR speed=0.6]사무실[/anki:tts]
+
+"	офис
+"офис</br>
+</hr>
+"	"사무실
+[anki:tts lang=ko_KR speed=0.8]사무실[/anki:tts]
+"
+"마트
+[anki:tts lang=ko_KR speed=0.6]마트[/anki:tts]
+
+"	супермаркет
+"супермаркет</br>
+</hr>
+"	"마트
+[anki:tts lang=ko_KR speed=0.8]마트[/anki:tts]
+"
+"극장
+[anki:tts lang=ko_KR speed=0.6]극장[/anki:tts]
+
+"	театр<br>кинотеатр
+"театр<br>кинотеатр</br>
+</hr>
+"	"극장
+[anki:tts lang=ko_KR speed=0.8]극장[/anki:tts]
+"
+"시내
+[anki:tts lang=ko_KR speed=0.6]시내[/anki:tts]
+
+"	центр города<br>downtown
+"центр города<br>downtown</br>
+</hr>
+"	"시내
+[anki:tts lang=ko_KR speed=0.8]시내[/anki:tts]
+"
+"헬스
+[anki:tts lang=ko_KR speed=0.6]헬스[/anki:tts]
+
+"	спортивный зал<br>(коротко)
+"спортивный зал<br>(коротко)</br>
+</hr>
+"	"헬스
+[anki:tts lang=ko_KR speed=0.8]헬스[/anki:tts]
+"
+"헬스클럽
+[anki:tts lang=ko_KR speed=0.6]헬스클럽[/anki:tts]
+
+"	спортивный клуб, фитнес клуб
+"спортивный клуб, фитнес клуб</br>
+</hr>
+"	"헬스클럽
+[anki:tts lang=ko_KR speed=0.8]헬스클럽[/anki:tts]
+"
+"헬스 센터
+[anki:tts lang=ko_KR speed=0.6]헬스 센터[/anki:tts]
+
+"	спортивный центр
+"спортивный центр</br>
+</hr>
+"	"헬스 센터
+[anki:tts lang=ko_KR speed=0.8]헬스 센터[/anki:tts]
+"
+"은행
+[anki:tts lang=ko_KR speed=0.6]은행[/anki:tts]
+
+"	банк
+"банк</br>
+</hr>
+"	"은행
+[anki:tts lang=ko_KR speed=0.8]은행[/anki:tts]
+"
+"약국
+[anki:tts lang=ko_KR speed=0.6]약국[/anki:tts]
+
+"	аптека
+"аптека</br>
+</hr>
+"	"약국
+[anki:tts lang=ko_KR speed=0.8]약국[/anki:tts]
+"
+"약
+[anki:tts lang=ko_KR speed=0.6]약[/anki:tts]
+
+"	лекарство
+"лекарство</br>
+</hr>
+"	"약
+[anki:tts lang=ko_KR speed=0.8]약[/anki:tts]
+"
+"강아지
+[anki:tts lang=ko_KR speed=0.6]강아지[/anki:tts]
+
+"	Собака (домашняя)<br>Щенок<br>
+"Собака (домашняя)<br>Щенок<br></br>
+</hr>
+"	"강아지
+[anki:tts lang=ko_KR speed=0.8]강아지[/anki:tts]
+"
+"새
+[anki:tts lang=ko_KR speed=0.6]새[/anki:tts]
+
+"	птица
+"птица</br>
+</hr>
+"	"새
+[anki:tts lang=ko_KR speed=0.8]새[/anki:tts]
+"
+"휴무
+[anki:tts lang=ko_KR speed=0.6]휴무[/anki:tts]
+
+"	Закрыто (временно не работает)
+"Закрыто (временно не работает)</br>
+</hr>
+"	"휴무
+[anki:tts lang=ko_KR speed=0.8]휴무[/anki:tts]
+"
+"독일
+[anki:tts lang=ko_KR speed=0.6]독일[/anki:tts]
+
+"	Германия
+"Германия</br>
+</hr>
+"	"독일
+[anki:tts lang=ko_KR speed=0.8]독일[/anki:tts]
+"
+"언어
+[anki:tts lang=ko_KR speed=0.6]언어[/anki:tts]
+
+"	Язык
+"Язык</br>
+</hr>
+"	"언어
+[anki:tts lang=ko_KR speed=0.8]언어[/anki:tts]
+"
+"ㅂ시다
+[anki:tts lang=ko_KR speed=0.6]ㅂ시다[/anki:tts]
+
+"	Аффикс: давайте сделаем
+"Аффикс: давайте сделаем</br>
+</hr>
+"	"ㅂ시다
+[anki:tts lang=ko_KR speed=0.8]ㅂ시다[/anki:tts]
+"
+"한국어를 배웁시다
+[anki:tts lang=ko_KR speed=0.6]한국어를 배웁시다[/anki:tts]
+
+"	Давайте учить корейский
+"Давайте учить корейский</br>
+</hr>
+"	"한국어를 배웁시다
+[anki:tts lang=ko_KR speed=0.8]한국어를 배웁시다[/anki:tts]
+"
+"A-로
+[anki:tts lang=ko_KR speed=0.6]A-로[/anki:tts]
+
+"	Посредством А, при помощи, с использованием 
+"Посредством А, при помощи, с использованием </br>
+</hr>
+"	"A-로
+[anki:tts lang=ko_KR speed=0.8]A-로[/anki:tts]
+"
+"남자들이 한국어로 이야기합니다
+[anki:tts lang=ko_KR speed=0.6]남자들이 한국어로 이야기합니다[/anki:tts]
+
+"	Мужчины говорят по-корейски <br>(букв: общаются посредством корейского)
+"Мужчины говорят по-корейски <br>(букв: общаются посредством корейского)</br>
+</hr>
+"	"남자들이 한국어로 이야기합니다
+[anki:tts lang=ko_KR speed=0.8]남자들이 한국어로 이야기합니다[/anki:tts]
+"
+"베트남
+[anki:tts lang=ko_KR speed=0.6]베트남[/anki:tts]
+
+"	Вьетнам
+"Вьетнам</br>
+</hr>
+"	"베트남
+[anki:tts lang=ko_KR speed=0.8]베트남[/anki:tts]
+"
+"생각
+[anki:tts lang=ko_KR speed=0.6]생각[/anki:tts]
+
+"	Мысль<br>Воспоминание 
+"Мысль<br>Воспоминание </br>
+</hr>
+"	"생각
+[anki:tts lang=ko_KR speed=0.8]생각[/anki:tts]
+"
+"생각하다
+[anki:tts lang=ko_KR speed=0.6]생각하다[/anki:tts]
+
+"	Думать<br>Вспоминать
+"Думать<br>Вспоминать</br>
+</hr>
+"	"생각하다
+[anki:tts lang=ko_KR speed=0.8]생각하다[/anki:tts]
+"
+"한국어로 생각합시다
+[anki:tts lang=ko_KR speed=0.6]한국어로 생각합시다[/anki:tts]
+
+"	Давайте думать на корейском
+"Давайте думать на корейском</br>
+</hr>
+"	"한국어로 생각합시다
+[anki:tts lang=ko_KR speed=0.8]한국어로 생각합시다[/anki:tts]
+"
+"대화
+[anki:tts lang=ko_KR speed=0.6]대화[/anki:tts]
+
+"	Диалог<br>Беседа
+"Диалог<br>Беседа</br>
+</hr>
+"	"대화
+[anki:tts lang=ko_KR speed=0.8]대화[/anki:tts]
+"
+"대화하다
+[anki:tts lang=ko_KR speed=0.6]대화하다[/anki:tts]
+
+"	Вести диалог<br>Беседовать
+"Вести диалог<br>Беседовать</br>
+</hr>
+"	"대화하다
+[anki:tts lang=ko_KR speed=0.8]대화하다[/anki:tts]
+"
+"제 생각엔 ...
+[anki:tts lang=ko_KR speed=0.6]제 생각엔 ...[/anki:tts]
+
+"	По моему мнению, ...
+"По моему мнению, ...</br>
+</hr>
+"	"제 생각엔 ...
+[anki:tts lang=ko_KR speed=0.8]제 생각엔 ...[/anki:tts]
+"
+"적다
+[anki:tts lang=ko_KR speed=0.6]적다[/anki:tts]
+
+"	Записывать<br>Писать
+"Записывать<br>Писать</br>
+</hr>
+"	"적다
+[anki:tts lang=ko_KR speed=0.8]적다[/anki:tts]
+"
+"연필로 적습니다
+[anki:tts lang=ko_KR speed=0.6]연필로 적습니다[/anki:tts]
+
+"	<i>Я</i> пишу карандашом
+"<i>Я</i> пишу карандашом</br>
+</hr>
+"	"연필로 적습니다
+[anki:tts lang=ko_KR speed=0.8]연필로 적습니다[/anki:tts]
+"
+"단어
+[anki:tts lang=ko_KR speed=0.6]단어[/anki:tts]
+
+"	Слово
+"Слово</br>
+</hr>
+"	"단어
+[anki:tts lang=ko_KR speed=0.8]단어[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">영</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">영</span>[/anki:tts]
+
+"	0<br>(кит.)
+"0<br>(кит.)</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">영</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">영</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">일 (число)</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">일 (число)</span>[/anki:tts]
+
+"	1<br>(кит.)
+"1<br>(кит.)</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">일 (число)</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">일 (число)</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이</span>[/anki:tts]
+
+"	2<br>(кит.)
+"2<br>(кит.)</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼</span>[/anki:tts]
+
+"	3<br>(кит.)
+"3<br>(кит.)</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사</span>[/anki:tts]
+
+"	4
+"4</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오</span>[/anki:tts]
+
+"	5
+"5</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">육</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">육</span>[/anki:tts]
+
+"	6
+"6</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">육</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">육</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">칠</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">칠</span>[/anki:tts]
+
+"	7
+"7</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">칠</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">칠</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔</span>[/anki:tts]
+
+"	8
+"8</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구</span>[/anki:tts]
+
+"	9
+"9</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십</span>[/anki:tts]
+
+"	10
+"10</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십일</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십일</span>[/anki:tts]
+
+"	11
+"11</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십일</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십일</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십이</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십이</span>[/anki:tts]
+
+"	12
+"12</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십이</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십이</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십삼</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십삼</span>[/anki:tts]
+
+"	13
+"13</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십삼</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십삼</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십사</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십사</span>[/anki:tts]
+
+"	14
+"14</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십사</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십사</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십오</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십오</span>[/anki:tts]
+
+"	15
+"15</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십오</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십오</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십육</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십육</span>[/anki:tts]
+
+"	16
+"16</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십육</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십육</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십칠</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십칠</span>[/anki:tts]
+
+"	17
+"17</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십칠</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십칠</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십팔</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십팔</span>[/anki:tts]
+
+"	18
+"18</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십팔</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십팔</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십구</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십구</span>[/anki:tts]
+
+"	19
+"19</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십구</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">십구</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이십</span>[/anki:tts]
+
+"	20
+"20</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">이십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼십</span>[/anki:tts]
+
+"	30
+"30</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">삼십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사십</span>[/anki:tts]
+
+"	40
+"40</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">사십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오십</span>[/anki:tts]
+
+"	50
+"50</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">오십</span>[/anki:tts]
+"
+"육십
+[anki:tts lang=ko_KR speed=0.6]육십[/anki:tts]
+
+"	60
+"60</br>
+</hr>
+"	"육십
+[anki:tts lang=ko_KR speed=0.8]육십[/anki:tts]
+"
+"칠십
+[anki:tts lang=ko_KR speed=0.6]칠십[/anki:tts]
+
+"	70
+"70</br>
+</hr>
+"	"칠십
+[anki:tts lang=ko_KR speed=0.8]칠십[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔십</span>[/anki:tts]
+
+"	80
+"80</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">팔십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구십</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구십</span>[/anki:tts]
+
+"	90
+"90</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구십</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">구십</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">백</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">백</span>[/anki:tts]
+
+"	100
+"100</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">백</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">백</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">천</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">천</span>[/anki:tts]
+
+"	1000
+"1000</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">천</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">천</span>[/anki:tts]
+"
+"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">만</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">만</span>[/anki:tts]
+
+"	10,000
+"10,000</br>
+</hr>
+"	"<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">만</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(32, 33, 34); background-color: rgb(248, 249, 250);"">만</span>[/anki:tts]
+"
+"제 말이 맞습니까?
+[anki:tts lang=ko_KR speed=0.6]제 말이 맞습니까?[/anki:tts]
+
+"	Я прав?<br>букв. Моя речь правильная?
+"Я прав?<br>букв. Моя речь правильная?</br>
+</hr>
+"	"제 말이 맞습니까?
+[anki:tts lang=ko_KR speed=0.8]제 말이 맞습니까?[/anki:tts]
+"
+"맞다
+[anki:tts lang=ko_KR speed=0.6]맞다[/anki:tts]
+
+"	верный, правильный, точный
+"верный, правильный, точный</br>
+</hr>
+"	"맞다
+[anki:tts lang=ko_KR speed=0.8]맞다[/anki:tts]
+"
+"쉽다
+[anki:tts lang=ko_KR speed=0.6]쉽다[/anki:tts]
+
+"	лёгкий, простой
+"лёгкий, простой</br>
+</hr>
+"	"쉽다
+[anki:tts lang=ko_KR speed=0.8]쉽다[/anki:tts]
+"
+"한국어는 쉽습니까?
+[anki:tts lang=ko_KR speed=0.6]한국어는 쉽습니까?[/anki:tts]
+
+"	Корейский язык простой?
+"Корейский язык простой?</br>
+</hr>
+"	"한국어는 쉽습니까?
+[anki:tts lang=ko_KR speed=0.8]한국어는 쉽습니까?[/anki:tts]
+"
+"어렵다
+[anki:tts lang=ko_KR speed=0.6]어렵다[/anki:tts]
+
+"	сложный, трудный
+"сложный, трудный</br>
+</hr>
+"	"어렵다
+[anki:tts lang=ko_KR speed=0.8]어렵다[/anki:tts]
+"
+"중국어는 어렵습니까?
+[anki:tts lang=ko_KR speed=0.6]중국어는 어렵습니까?[/anki:tts]
+
+"	Китайский язык сложный?
+"Китайский язык сложный?</br>
+</hr>
+"	"중국어는 어렵습니까?
+[anki:tts lang=ko_KR speed=0.8]중국어는 어렵습니까?[/anki:tts]
+"
+"영어는 쉽지 않습니다.
+[anki:tts lang=ko_KR speed=0.6]영어는 쉽지 않습니다.[/anki:tts]
+
+"	Английский язык не простой.
+"Английский язык не простой.</br>
+</hr>
+"	"영어는 쉽지 않습니다.
+[anki:tts lang=ko_KR speed=0.8]영어는 쉽지 않습니다.[/anki:tts]
+"
+"매일
+[anki:tts lang=ko_KR speed=0.6]매일[/anki:tts]
+
+"	ежедневно, каждый день
+"ежедневно, каждый день</br>
+</hr>
+"	"매일
+[anki:tts lang=ko_KR speed=0.8]매일[/anki:tts]
+"
+"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">매일 언어를 배웁시다.</span>
+[anki:tts lang=ko_KR speed=0.6]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">매일 언어를 배웁시다.</span>[/anki:tts]
+
+"	Давайте учить языки каждый день.
+"Давайте учить языки каждый день.</br>
+</hr>
+"	"<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">매일 언어를 배웁시다.</span>
+[anki:tts lang=ko_KR speed=0.8]<span style=""color: rgb(37, 37, 37); background-color: rgb(255, 255, 255);"">매일 언어를 배웁시다.</span>[/anki:tts]
+"
+"함께
+[anki:tts lang=ko_KR speed=0.6]함께[/anki:tts]
+
+"	вместе,<br>наряду,<br>одновременно с чем-либо
+"вместе,<br>наряду,<br>одновременно с чем-либо</br>
+</hr>
+"	"함께
+[anki:tts lang=ko_KR speed=0.8]함께[/anki:tts]
+"
+"심리학자
+[anki:tts lang=ko_KR speed=0.6]심리학자[/anki:tts]
+
+"	Психолог
+"Психолог</br>
+</hr>
+"	"심리학자
+[anki:tts lang=ko_KR speed=0.8]심리학자[/anki:tts]
+"
+"심리학
+[anki:tts lang=ko_KR speed=0.6]심리학[/anki:tts]
+
+"	Психология
+"Психология</br>
+</hr>
+"	"심리학
+[anki:tts lang=ko_KR speed=0.8]심리학[/anki:tts]
+"
+"막내딸
+[anki:tts lang=ko_KR speed=0.6]막내딸[/anki:tts]
+
+"	Самая младшая дочь 
+"Самая младшая дочь </br>
+</hr>
+"	"막내딸
+[anki:tts lang=ko_KR speed=0.8]막내딸[/anki:tts]
+"
+"큰딸
+[anki:tts lang=ko_KR speed=0.6]큰딸[/anki:tts]
+
+"	Старшая дочь
+"Старшая дочь</br>
+</hr>
+"	"큰딸
+[anki:tts lang=ko_KR speed=0.8]큰딸[/anki:tts]
+"
+"한국의 언어는 한국어입니다.
+[anki:tts lang=ko_KR speed=0.6]한국의 언어는 한국어입니다.[/anki:tts]
+
+"	Язык Кореи - корейский язык.
+"Язык Кореи - корейский язык.</br>
+</hr>
+"	"한국의 언어는 한국어입니다.
+[anki:tts lang=ko_KR speed=0.8]한국의 언어는 한국어입니다.[/anki:tts]
+"
+"이 한국어 대화는 적읍시다.
+[anki:tts lang=ko_KR speed=0.6]이 한국어 대화는 적읍시다.[/anki:tts]
+
+"	Давайте запишем этот корейский диалог.
+"Давайте запишем этот корейский диалог.</br>
+</hr>
+"	"이 한국어 대화는 적읍시다.
+[anki:tts lang=ko_KR speed=0.8]이 한국어 대화는 적읍시다.[/anki:tts]
+"
+"이 단어가 어렵습니다
+[anki:tts lang=ko_KR speed=0.6]이 단어가 어렵습니다[/anki:tts]
+
+"	Это слово сложное.
+"Это слово сложное.</br>
+</hr>
+"	"이 단어가 어렵습니다
+[anki:tts lang=ko_KR speed=0.8]이 단어가 어렵습니다[/anki:tts]
+"
+"돈이 있습니다
+[anki:tts lang=ko_KR speed=0.6]돈이 있습니다[/anki:tts]
+
+"	<i>У меня&nbsp;</i>есть деньги.
+"<i>У меня&nbsp;</i>есть деньги.</br>
+</hr>
+"	"돈이 있습니다
+[anki:tts lang=ko_KR speed=0.8]돈이 있습니다[/anki:tts]
+"
+"- 물이 있습니까?<br>-&nbsp;네, 물이 있습니다.
+[anki:tts lang=ko_KR speed=0.6]- 물이 있습니까?<br>-&nbsp;네, 물이 있습니다.[/anki:tts]
+
+"	<i>- У вас&nbsp;</i>есть вода?<br>- Да, вода есть.
+"<i>- У вас&nbsp;</i>есть вода?<br>- Да, вода есть.</br>
+</hr>
+"	"- 물이 있습니까?<br>-&nbsp;네, 물이 있습니다.
+[anki:tts lang=ko_KR speed=0.8]- 물이 있습니까?<br>-&nbsp;네, 물이 있습니다.[/anki:tts]
+"
+"- 돈이 은행에 있습니다.<br>- 은행에 돈이 있습니다
+[anki:tts lang=ko_KR speed=0.6]- 돈이 은행에 있습니다.<br>- 은행에 돈이 있습니다[/anki:tts]
+
+"	- Деньги лежат в банке.<br>- В банке есть деньги.
+"- Деньги лежат в банке.<br>- В банке есть деньги.</br>
+</hr>
+"	"- 돈이 은행에 있습니다.<br>- 은행에 돈이 있습니다
+[anki:tts lang=ko_KR speed=0.8]- 돈이 은행에 있습니다.<br>- 은행에 돈이 있습니다[/anki:tts]
+"
+"우리 집에 고양이가 있습니다.
+[anki:tts lang=ko_KR speed=0.6]우리 집에 고양이가 있습니다.[/anki:tts]
+
+"	У нас дома живёт (<i>есть</i>) кошка.
+"У нас дома живёт (<i>есть</i>) кошка.</br>
+</hr>
+"	"우리 집에 고양이가 있습니다.
+[anki:tts lang=ko_KR speed=0.8]우리 집에 고양이가 있습니다.[/anki:tts]
+"
+"가스
+[anki:tts lang=ko_KR speed=0.6]가스[/anki:tts]
+
+"	газ
+"газ</br>
+</hr>
+"	"가스
+[anki:tts lang=ko_KR speed=0.8]가스[/anki:tts]
+"
+"저는 사무실에 있어요
+[anki:tts lang=ko_KR speed=0.6]저는 사무실에 있어요[/anki:tts]
+
+"	Я в офисе
+"Я в офисе</br>
+</hr>
+"	"저는 사무실에 있어요
+[anki:tts lang=ko_KR speed=0.8]저는 사무실에 있어요[/anki:tts]
+"
+"돈이 어디에 있습니까?
+[anki:tts lang=ko_KR speed=0.6]돈이 어디에 있습니까?[/anki:tts]
+
+"	Где лежат (<i>пребывают</i>) деньги?
+"Где лежат (<i>пребывают</i>) деньги?</br>
+</hr>
+"	"돈이 어디에 있습니까?
+[anki:tts lang=ko_KR speed=0.8]돈이 어디에 있습니까?[/anki:tts]
+"
+"커피를 삽니다.
+[anki:tts lang=ko_KR speed=0.6]커피를 삽니다.[/anki:tts]
+
+"	<i>Я&nbsp;</i>покупаю кофе.
+"<i>Я&nbsp;</i>покупаю кофе.</br>
+</hr>
+"	"커피를 삽니다.
+[anki:tts lang=ko_KR speed=0.8]커피를 삽니다.[/anki:tts]
+"
+"커피가 없습니다.
+[anki:tts lang=ko_KR speed=0.6]커피가 없습니다.[/anki:tts]
+
+"	кофе нет.
+"кофе нет.</br>
+</hr>
+"	"커피가 없습니다.
+[anki:tts lang=ko_KR speed=0.8]커피가 없습니다.[/anki:tts]
+"
